@@ -1,0 +1,193 @@
+{
+  "runId": "DANGCEM-20261025T204158-d945",
+  "ticker": "DANGCEM",
+  "market": "NGX",
+  "currency": "NGN",
+  "company": "Dangote Cement Plc",
+  "cik": "NGX:DANGCEM",
+  "industry": "NGX · Cement and building materials",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-279"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.06592756235814129,
+          "limit": 0.3,
+          "numerator": 1115473000000,
+          "denominator": 16919676082370,
+          "evidenceIds": [
+            "mem-272",
+            "mem-278"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.02349743565210801,
+          "limit": 0.3,
+          "numerator": 397569000000,
+          "denominator": 16919676082370,
+          "evidenceIds": [
+            "mem-273",
+            "mem-278"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.019073518867328703,
+          "limit": 0.05,
+          "numerator": 82144000000,
+          "denominator": 4306704000000,
+          "evidenceIds": [
+            "mem-276",
+            "mem-275"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.019073518867328703
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-279"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "PASS",
+          "ratio": 0.18465873395702206,
+          "limit": 0.3333333333333333,
+          "numerator": 1115473000000,
+          "denominator": 6040727000000,
+          "evidenceIds": [
+            "mem-272",
+            "mem-271"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.0658147603756965,
+          "limit": 0.3333333333333333,
+          "numerator": 397569000000,
+          "denominator": 6040727000000,
+          "evidenceIds": [
+            "mem-273",
+            "mem-271"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.0902277159686243,
+          "limit": 0.3333333333333333,
+          "numerator": 545041000000,
+          "denominator": 6040727000000,
+          "evidenceIds": [
+            "mem-273",
+            "mem-274",
+            "mem-271"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.019073518867328703,
+          "limit": 0.05,
+          "numerator": 82144000000,
+          "denominator": 4306704000000,
+          "evidenceIds": [
+            "mem-276",
+            "mem-275"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.019073518867328703
+    }
+  ],
+  "purificationRate": 0.019073518867328703,
+  "narrative": {
+    "headline": "Dangote Cement passes Shariah screening compliant",
+    "explanation": "Mizan’s screening concludes Dangote Cement is Shariah-compliant under both AAOIFI and MSCI methodologies. The primary cause is zero non-compliant revenue and all financial ratios staying within prescribed limits. If dividends are received, 1.91% of the amount must be purified for Shariah compliance.",
+    "key_points": [
+      {
+        "text": "Non-compliant revenue share is 0.00%, well under the 5.00% limit.",
+        "evidence": [
+          "mem-279"
+        ]
+      },
+      {
+        "text": "Interest-bearing debt at 6.59% and interest-bearing cash at 2.35% both pass the 30.00% cap.",
+        "evidence": [
+          "mem-272",
+          "mem-273",
+          "mem-278"
+        ]
+      },
+      {
+        "text": "Non-compliant income is 1.91% of total revenue, passing the 5.00% limit.",
+        "evidence": [
+          "mem-275",
+          "mem-276"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-25T20:41:58.493Z",
+  "finishedAt": "2026-10-25T20:47:12.327Z"
+}

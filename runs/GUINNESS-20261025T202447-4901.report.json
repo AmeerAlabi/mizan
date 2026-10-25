@@ -1,0 +1,200 @@
+{
+  "runId": "GUINNESS-20261025T202447-4901",
+  "ticker": "GUINNESS",
+  "market": "NGX",
+  "currency": "NGN",
+  "company": "Guinness Nigeria Plc",
+  "cik": "NGX:GUINNESS",
+  "industry": "NGX · Brewing (beer, spirits)",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-261"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "interestBearingDebt",
+            "marketCap"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "marketCap"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": null,
+          "evidenceIds": [
+            "mem-268"
+          ],
+          "missing": [
+            "totalRevenue"
+          ]
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Interest-bearing debt / market cap: missing interestBearingDebt, marketCap",
+        "Interest-bearing cash and securities / market cap: missing cash, interestBearingSecurities, marketCap",
+        "Non-compliant income / total revenue: missing totalRevenue"
+      ],
+      "purificationRate": null
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-261"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "interestBearingDebt",
+            "totalAssets"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "totalAssets"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "receivables",
+            "totalAssets"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": null,
+          "evidenceIds": [
+            "mem-268"
+          ],
+          "missing": [
+            "totalRevenue"
+          ]
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Total debt / total assets: missing interestBearingDebt, totalAssets",
+        "Cash and interest-bearing securities / total assets: missing cash, interestBearingSecurities, totalAssets",
+        "Receivables, cash and securities / total assets: missing cash, interestBearingSecurities, receivables, totalAssets",
+        "Non-compliant income / total revenue: missing totalRevenue"
+      ],
+      "purificationRate": null
+    }
+  ],
+  "purificationRate": null,
+  "narrative": {
+    "headline": "Guinness Nigeria: Non-compliant due to alcohol revenue",
+    "explanation": "Guinness Nigeria Plc is rated non-compliant under both AAOIFI and MSCI Islamic Index standards. The decisive factor is that 90% of its revenue comes from alcoholic beverages, well above the 5% limit for permissible non-compliant income. Because the non-compliance is intrinsic to the company’s core brewing operations rather than incidental earnings, no purification rate is specified, and key financial ratios are not reported.",
+    "key_points": [
+      {
+        "text": "90.0% of revenue comes from alcoholic beverages, exceeding the 5.00% limit.",
+        "evidence": [
+          "mem-261"
+        ]
+      },
+      {
+        "text": "Principal activities are brewing, packaging, marketing and selling alcoholic beverages, flagged as non-compliant.",
+        "evidence": [
+          "mem-260"
+        ]
+      },
+      {
+        "text": "No interest income is reported; it is treated as immaterial (0) for the income test.",
+        "evidence": [
+          "mem-268"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-25T20:24:47.934Z",
+  "finishedAt": "2026-10-25T20:27:34.065Z"
+}

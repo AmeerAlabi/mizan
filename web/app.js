@@ -53,7 +53,7 @@ async function startScreen(ticker) {
   }
 }
 
-function openRun(runId) {
+function openRun(runId, pace = 0) {
   source?.close();
   lastRound = -1;
   $("#hero").classList.add("compact");
@@ -63,7 +63,7 @@ function openRun(runId) {
   $("#verdict-body").innerHTML = `<div class="waiting"><div class="spinner" aria-hidden="true"></div><p>The planner, researcher, activity analyst and evaluator are working. Results appear here once the evaluator approves the evidence.</p></div>`;
   setStatus("live", "agents working…");
 
-  source = new EventSource(`/api/screen/${encodeURIComponent(runId)}/events`);
+  source = new EventSource(`/api/screen/${encodeURIComponent(runId)}/events${pace ? `?pace=${pace}` : ""}`);
   source.addEventListener("trace", (m) => addEvent(JSON.parse(m.data)));
   source.addEventListener("report", (m) => {
     renderReport(JSON.parse(m.data));
@@ -95,8 +95,20 @@ function addEvent(e) {
   }
   if (e.type === "start" && e.summary) $("#company-line").textContent = e.summary.replace("Screening ", "");
   let text;
+  // Provider retries are routine on NVIDIA's free tier: show them as one quiet line, not raw errors.
+  const retry = e.type === "error" && /^Model call failed/.test(e.summary);
+  if (retry) {
+    const wait = e.summary.match(/retrying in (\d+)s/);
+    list.insertAdjacentHTML("beforeend", `<li class="ev llm"><span class="agent a-${esc(e.agent)}"></span><div class="ev-text">NVIDIA endpoint busy · retried${wait ? ` after ${esc(wait[1])}s` : ""}</div></li>`);
+    list.scrollTop = list.scrollHeight;
+    return;
+  }
   if (e.type === "llm") text = `${esc(e.model?.split("/").pop() ?? "model")} · ${((e.ms ?? 0) / 1000).toFixed(1)}s · ${esc(e.summary)}`;
-  else {
+  else if (e.type === "error") {
+    // Keep fallbacks visible but readable: drop raw provider JSON.
+    const clean = e.summary.replace(/:?\s*Meterless runtime error HTTP \d+:?\s*\{.*$/s, " (model unavailable)").replace(/\(Meterless runtime error HTTP \d+[^)]*\)?/g, "(model unavailable)");
+    text = `<span class="kind">note</span>${esc(clean.slice(0, 200))}`;
+  } else {
     text = `<span class="kind">${esc(e.type)}</span>${esc(e.summary)}`;
     if (e.data?.sql) text += `<code class="sql">${esc(e.data.sql)}</code>`;
   }
@@ -194,7 +206,8 @@ document.addEventListener("keydown", (ev) => ev.key === "Escape" && closeEvidenc
 
 function route() {
   const m = location.hash.match(/run=([\w-]+)/);
-  if (m) openRun(m[1]);
+  const pace = location.hash.match(/pace=(\d+)/);
+  if (m) openRun(m[1], pace ? Number(pace[1]) : 0);
 }
 window.addEventListener("hashchange", route);
 refreshStatus();

@@ -126,7 +126,13 @@ const server = http.createServer(async (req, res) => {
       if (!run) {
         const past = loadRun(m[1]);
         if (!past) return send(res, "failed", { error: "Unknown run" }), res.end();
-        past.events.forEach((e) => send(res, "trace", e));
+        // ?pace=ms replays a saved run event by event, as it looked live (used for demos).
+        const pace = Math.min(2000, Math.max(0, Number(url.searchParams.get("pace") ?? 0)));
+        for (const e of past.events) {
+          if (res.destroyed) return;
+          send(res, "trace", e);
+          if (pace) await new Promise((r) => setTimeout(r, e.type === "llm" ? pace * 2 : pace));
+        }
         if (past.report) send(res, "report", past.report);
         return res.end();
       }

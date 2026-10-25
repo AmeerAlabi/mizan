@@ -108,7 +108,7 @@ JSON shape: {"non_compliant_activities":[{"activity":"...","quote":"...","estima
       value: share ?? undefined,
       content: `Estimated non-compliant revenue share: ${share === null ? "could not be quantified" : `${(share * 100).toFixed(1)}%`} (confidence ${reply.confidence}). ${reply.rationale}`,
       source: `agent:activity-analyst${quoteIds.length ? `:${quoteIds.join("+")}` : ""}`,
-      sourceLabel: `Activity analysis of 10-K filed ${business.filed}`,
+      sourceLabel: ngx ? `Activity analysis of ${ngx.filingTitle}, ${business.accession}` : `Activity analysis of 10-K filed ${business.filed}`,
       refs: [business.url, sicEv.id, ...quoteIds],
       confidence: Math.max(0.1, Math.min(1, reply.confidence ?? 0.5)),
       extraTags: share === null ? ["unquantified"] : [],
