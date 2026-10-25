@@ -1,0 +1,6 @@
+{
+  "_about": "NGX closing prices (NGN) on 22 October 2026, from the public price history at afx.kwayisi.org/ngx/<ticker>.html. The NGX's own market data API is paid, so Mizan screens against this dated snapshot.",
+  "date": "2026-10-22",
+  "source": "https://afx.kwayisi.org/ngx/",
+  "prices": { "DANGCEM": 1010.0, "MTNN": 825.0, "NESTLE": 2750.0, "BUAFOODS": 760.6, "GUINNESS": 423.0, "ACCESSCORP": 26.75 }
+}

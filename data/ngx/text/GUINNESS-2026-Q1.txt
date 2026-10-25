@@ -1,0 +1,1841 @@
+                                                                                    Guinness Nigeria PLC
+                                                                       Unaudited Financial Statements
+                                                                      For the period ended 31-03-2026
+
+    GUINNESS NIGERIA PLC
+
+UNAUDITED FINANCIAL STATEMENTS
+For the period ended 31 March 2026
+
+                                 1
+                                                              Guinness Nigeria PLC
+                                                 Unaudited Financial Statements
+                                                For the period ended 31-03-2026
+
+CONTENTS                                        PAGE
+Condensed Statement of financial position         3
+Condensed Statement of profit or loss             4
+Condensed Statement of changes in equity          5
+Condensed Statement of cash flows                 6
+Notes to the Condensed financial statements
+Shareholding structure / Free float status      7-36
+                                                 37
+
+                                             2
+                                                                               Guinness Nigeria PLC
+                                                                  Unaudited Financial Statements
+                                                                 For the period ended 31-03-2026
+
+CONDENSED STATEMENT OF FINANCIAL POSITION  Notes                 31 March 2026    31 December 2025
+For the period ended 31 March 2026                                         N'000                 N'000
+                                             16
+ASSETS                                     16 A                  132,111,714                                    126,770,739
+                                             17                     6,238,692                                      6,349,764
+Non-current assets                                                    127,666                                        128,168
+Property, plant and equipment                18                             -                                             -
+Intangible assets                            19
+Right of use assets                          20                  138,478,072                                   133,248,671
+Deferred Tax Asset                           21
+Total non-current assets                     21                   31,466,365                                     38,350,794
+                                                                  20,632,344                                     20,633,480
+Current assets                                                    45,967,431                                     45,819,745
+Trade and other receivables
+Prepayment and other assets                                           150,000                                        155,000
+Inventories                                                         1,629,962                                      6,969,019
+Restricted Cash                                                   99,846,102                                   111,928,038
+Cash and cash equivalents                                        238,324,174                                   245,176,709
+Total current assets
+Total assets
+
+EQUITY AND LIABILITIES                     22                    1,095,191                                            1,095,191
+
+Capital and reserves                       23                    47,447,029                                           47,447,029
+Share capital
+Share Premium                                                    5,174,219                                            (5,218,054)
+Retained earnings
+Total equity                                                     53,716,439                                           43,324,166
+
+Non-Current Liabilities                    17                    144,969                                              146,436
+Lease Liabilities
+Deferred Tax Liabilities                                         4,941,172                                            1,647,299
+Retirement benefit obligation
+Long-term borrowings                                             1,525,535                                            1,474,215
+Deferred government income
+Total Non-Current Liabilities              26                    6,652,572                                            7,078,650
+
+Current liabilities                        27                    398,869                                              796,648
+Bank overdraft
+Current tax liabilities                                          13,663,117                                           11,143,248
+Dividend payable
+Loans and borrowings                       21                    1,607,122                                            523,538
+Deferred government income
+Contract Liabilities                       14                    4,471,800                                            2,940,082
+Trade and other payables
+Lease liabilities                          24                    149,981                                              149,981
+Total current liabilities
+Total liabilities                          26                    30,970,448                                           36,839,360
+Total equity and liabilities
+                                           27                    711,129                                              417,801
+
+                                           5                     5,966,467                                            4,723,216
+
+                                           25                    127,067,645                                          145,115,295
+
+                                           17                    26                                                   22
+
+                                                                 170,944,618                                   190,709,295
+
+                                                                 184,607,735                                   201,852,543
+
+                                                                 238,324,174                                   245,176,709
+
+These Financial Statements were approved by the board of directors on April,2026 and signed on its behalf by:
+
+Prof Fabian Ajogwu, SAN        Girish Sharma                     Mayank Kabra
+FRC/2014/NBA/00000006868                                         FRC/2017/PRO/ANAN/001/00000017462
+(Chairman)                     FRC/2021/PRO/DIR/003/00000023324  (Finance & Strategy Director)
+                               (Managing Director) 3
+
+The accounting policies and accompanying notes on pages 7 to 36 form an integral part of these financial statements.
+                                                                                      Guinness Nigeria PLC
+                                                                         Unaudited Financial Statements
+                                                                        For the period ended 31-03-2026
+
+CONDENSED STATEMENT OF PROFIT OR LOSS AND OTHER COMPREHENSIVE INCOME
+For the period ended 31 March 2026
+
+                                     Notes                       Year   Quarter to date       Year to Date
+                                                                    to  31 March 2025      31 March 2025
+
+                                                                 Date               N'000             N'000
+                                                                    31
+                                                                                             118,338,025
+                                                                Marc                         (73,813,140)
+                                            Quarter to date h
+                                            31 March 2026 2026
+
+                                                        N'000 N'000
+
+Continuing operations                5      122,772,787 ###             118,338,025
+Revenue
+Cost of sales                        6      (79,295,160) ###            (73,813,140)
+
+Gross profit                                43,477,626 ###              44,524,885         44,524,885
+
+Other Income                         9         303,509 ###              29,233             29,233
+Administrative Expenses
+Marketing and Distribution Expenses  7      (8,116,351) ###             (7,679,034)        (7,679,034)
+Profit from Operating Activities
+                                     8      (18,485,108) ###            (18,880,162)       (18,880,162)
+
+                                            17,179,677 ###              17,994,922         17,994,922
+
+Finance expenses                     11     (2,479,882) ###             (7,777,533)        (7,777,533)
+Finance Income
+                                     12     1,046,075 ###               61,353             61,353
+
+Profit/(loss) before tax                    15,745,870 ###              10,278,743         10,278,743
+Income Tax
+                                     14     (5,353,596) ###             (3,252,155)        (3,252,155)
+
+Profit/(loss) for the year                  10,392,274 ###              7,026,588          7,026,588
+
+Earnings per share                   15        474 474                  321                321
+Profit/(loss) per share (Kobo)
+
+                                            4
+                                                                               Guinness Nigeria PLC
+                                                                  Unaudited Financial Statements
+                                                                 For the period ended 31-03-2026
+
+CONDENSED STATEMENT OF CHANGES IN EQUITY
+For the period ended 31 March 2026
+
+Particulars                                 Share       Share    Retained    Total
+                                           capital  premium      Earnings    N'000
+Balance at 31 December 2024
+Profit/Loss for the period                  N'000       N'000       N'000
+Total comprehensive profit for the period
+Balance at 31 March 2025                   1,095,191 47,447,029  (46,683,508) 1,858,712
+Profit/Loss for the period
+Total comprehensive profit for the period     -     -            7,026,588   7,026,588
+Balance at 31 December 2025                                      7,026,588   7,026,588
+Profit/Loss for the period                    -     -
+Total comprehensive profit for the period
+Balance as at 31 March 2026                1,095,191 47,447,029  (39,656,920) 8,885,300
+
+                                              -     -            34,438,866  34,438,866
+                                                                 34,438,866  34,438,866
+                                              -     -
+
+                                           1,095,191 47,447,029  (5,218,055) 43,324,165
+
+                                              -     -            10,392,274  10,392,274
+                                                                 10,392,274  10,392,274
+                                              -     -
+
+                                           1,095,191 47,447,029  5,174,219 53,716,439
+
+                                           5
+                                                                                                  Guinness Nigeria PLC
+                                                                                     Unaudited Financial Statements
+                                                                                    For the period ended 31-03-2026
+
+CONDENSED STATEMENT OF CASH FLOWS                                            Notes  3 months ended                    3 months ended
+For the period ended 31 March 2026                                                      Year to Date                      Year to Date
+
+Profit / (Loss) before taxation                                                      31 March 2026                     31 March 2025
+                                                                                                N'000                            N'000
+
+                                                                                         15,745,869                        10,278,744
+
+Adjustments for:                                                             17     502                               502
+Depreciation-Right of use assets
+Depreciation-Property, Plant and Equipment                                   16     3,917,229                         2,938,930
+Amortization of Intangible Assets
+Write-offs of property, plant and equipment                                  16 A   111,072                           75,101
+Impairment of Inventories
+(Release of)/Charge for expected credit loss of trade and other receivables  16     153,407                           376,345
+Reversal of impairment on (non-financial) other receivables
+Long Service Awards                                                          20     (692,249)                         (41,027)
+Gratuity
+Finance Expense                                                              18     195,486                           (114,519)
+Finance Income
+Interest on Lease liabilities                                                18     (181,757)                         -
+
+Movement in Working Capital                                                         37,844                            45,209
+(Increase) / Decrease in inventory
+(Increase) / Decrease in trade and other receivables                                (47,688)                          -
+(Increase) / Decrease in prepayment and other assets
+(Decrease) / Increase in trade and other payables                            10     2,473,977                         12,760,828
+
+                                                                             11     (1,046,076)                       (16,296,843)
+
+                                                                             10     5,905                             27,307
+
+                                                                                    20,673,521                        10,050,577
+
+                                                                             20     544,563                           1,110,333
+
+                                                                             18     6,874,913                         8,119,327
+
+                                                                             19     1,136                             1,079,736
+
+                                                                             25     (6,839,981)                       (1,880,804)
+
+                                                                                    21,254,152                        18,479,169
+
+Income Tax Paid                                                              14     -                                    (1)
+Value added Tax Paid
+Defined Benefit Obligation                                                          (7,564,276)                       (7,705,007)
+Dividend payables
+Cash (used in) / generated in operating activities                                  93,349                            (19,857)
+
+                                                                             24     -                                 57,170
+
+                                                                                    13,783,225                        10,811,474
+
+Cash flows from investing activities                                         16 b   (11,483,610)                      (8,617,059)
+                                                                                                                          10,750
+Purchase of property, plant and equipment                                    16 b   -                                     20,927
+Proceeds from sale of property, plant and equipment
+Interest received                                                            12     735                               (8,585,382)
+Net cash (used in) / generated in investing activities
+                                                                                    (11,482,875)
+
+Cash flows from financing activities
+
+Interest paid                                                                26     (2,905,174)                       (5,084,960)
+Addition of loan in the year
+Repayment of Lease Liability                                                 26     45,358,370                        10,000,000
+Repayment of loan in the year
+Dividend paid                                                                17     (7,368)                           (21,436)
+Net cash (used in) / generated in financing activities
+                                                                             26     (51,154,572)                      (5,792,889)
+
+                                                                                    -                                 (57,170)
+
+                                                                                    (8,708,744)                       (956,455)
+
+Net Decrease in cash and cash equivalents                                           (6,408,394)                       1,269,637
+Cash and cash equivalents at the beginning of the year                              6,445,481                          (845,500)
+
+Effect of foreign exchange difference                                                  (14,246)                         (44,080)
+
+Cash and cash equivalents at the end of the year        6                               22,841                          380,057
+
+The accounting policies and accompanying notes on pages 7 to 36 form an integral part of these financial statements.
+                                                                                                                                                              Guinness Nigeria PLC
+                                                                                                                                                 Unaudited Financial Statements
+                                                                                                                                                For the period ended 31-03-2026
+
+       Notes to the condensed financial statements
+       For the period ended 31 March 2026
+
+ 1 Description of business
+       Guinness Nigeria Plc, ('the Company'), a public Company quoted on the Nigerian Stock Exchange, was incorporated in Nigeria
+       on 29 April 1950, as a trading company importing Guinness Stout from Dublin. The Company has since transformed itself into a
+       manufacturing operation.
+
+       The principal activities of the Company are to carry on the business of brewing, packaging, marketing and selling of Guinness
+       Foreign Extra Stout, Guinness Smooth, Malta Guinness, Smirnoff Ice, Dubic Malt, Orijin Spirit Mixed Drink, Orijin Bitters,
+       Baileys Delight, Gordons Moringa, Captain Morgan Gold and Don Royale among others.
+
+1.1 Composition of financial statements
+
+       Financial statements are prepared under International Financial Reporting Standard (IFRS) and comprise:
+
+        Statement of Profit or Loss and other comprehensive Income
+        Statement of Financial Position
+        Statement of Changes in Equity
+        Statement of Cash Flows
+        Notes to the Financial Statements.
+
+       The Company presents assets and liabilities in statement of financial position based on current/non-current classification. An
+       asset is current when it is:
+
+       a. Expected to be realised or intended to be sold or consumed in the normal operating cycle;
+       b. Held primarily for the purpose of trading;
+       c. Expected to be realised within twelve months after the reporting period; and
+       d. Cash or cash equivalents unless restricted from being exchanged or used to settle a liability for at least twelve months
+       after the reporting period.
+       All other assets are classified as non-current.
+
+ 2 Basis of preparation
+
+(a) Financial period
+       During the previous period, the Company changed its financial year from July­June to January­December. Consequently, the
+       previous financial period comprised eighteen months from July 1, 2024 to December 31, 2025
+       The financial statements presented herein relate to the quarter ended 31 March 2026, with the following comparative
+       information:
+       i) Statement of Profit or Loss and Other Comprehensive Income and Statement of Cash Flows - Comparative figures are for
+       year to date till 31 March 2025 from 01 January 2025
+       ii) Statement of Financial Position - Comparative figures are as at 31 December 2025.
+       Due to the change in financial year-end and the resulting difference in the length of the reporting periods, users of these
+       financial statements should be aware that certain amounts presented may not be directly comparable with those of the
+       comparative periods.
+
+(b) Statement of compliance
+       These financial statements have been prepared in accordance with International Financial Reporting Standards (IFRS) issued by
+       International Accounting Standards Board (IASB)and the interpretations issued by the International Financial Reporting
+       Interpretations Committee (IFRIC). The financial statements comply with IFRS as issued by International Accounting Standards
+       Board (IASB) and both requirements of the Financial Reporting Council of Nigeria Act and the Companies and Allied Matters
+       Act.
+
+(c) Basis of measurement
+       The financial statements have been prepared using the historical cost convention.
+
+(d) Functional and presentation currency
+       These financial statements are prepared in Naira, which is the Company's functional currency. All financial information
+       presented in Naira has been rounded to the nearest thousands, except where otherwise indicated.
+
+                                                                                         7
+                                                                                                                                                              Guinness Nigeria PLC
+                                                                                                                                                 Unaudited Financial Statements
+                                                                                                                                                For the period ended 31-03-2026
+
+ 2 Basis of preparation - continued
+2.1 Going concern considerations
+
+       The financial statements of Guinness Nigeria Plc for the Quarter ended 31 March 2026, have been prepared on a going concern
+       basis, which assumes that the Company will be able to meet the mandatory repayment terms of banking facilities,trade,lease
+       and other liabilities.
+
+2.2 Securities Trading Policy
+       In compliance with Rule 17.15 Disclosure of Dealings in Issuers' Shares, Rulebook of the Exchange 2015 (Issuers Rule), Guinness
+       Nigeria Plc maintains a Dealing in Securities Code (the "Code") which guides Directors, Audit Committee members, employees
+       and all individuals categorized as insiders as to their dealing in the Company's shares. The Code undergoes periodic reviews by
+       the Board of Directors and is updated accordingly to comply with national and international best practice of corporate
+       governance. The Company has made specific enquiries and given relevant notifications to all its Directors, Audit Committee
+       members, employees and other insiders and is not aware of any infringement of the Code during the period under review.
+
+ 3 Summary of accounting policies
+
+3.1 Revenue
+       The Company recognizes revenue from the sale of goods and services in the ordinary course of activities. The Company
+       recognizes revenue at a point in time as and when it satisfies a performance obligation by transferring control of a product or
+       service to a customer.
+       Revenue is measured at the fair value of the consideration received or receivable for goods or services in accordance with the
+       terms of the contract, and it is stated net of value added tax (VAT), rebates, discounts and returns.
+       A valid contract is recognized as revenue after:
+       ­ The contract is approved by the parties.
+       ­ Rights and obligations are recognized.
+       ­ Collectability is probable.
+       ­ The contract has commercial substance.
+       ­ The payment terms and consideration are identifiable.
+       Revenue from sale of goods
+       Revenue is measured based on the consideration to which the Company expects to be entitled in a contract with a customer
+       and excludes amounts collected on behalf of third parties. The Company recognises revenue when it transfers control of a
+       product or service to a customer in line with the requirements of IFRS 15 - Revenue from contract with customers.
+
+       Sale of goods arises from sale to third parties and related parties. Revenue is recognised when control of the goods has
+       transferred, being when the goods have been picked up by the customers or when the goods leave the Company's premises.
+       The customer obtains the right to return goods that are bad or damaged after they have been delivered. The Company allows
+       customers to return products after delivery within a certain timeframe if they are unsatisfactory. IFRS requires the company to
+       estimate expected returns which should not be recognized as revenue until the return period lapses.
+       When a customer exercises this right to return products, the company also has a right to recover the product from the
+       customer and will recognize an asset - Right of recovery asset in trade and other receivables and a corresponding adjustment
+       to Cost of sales.A receivable is recognised by the Company when the goods are delivered to the customer as this represents
+       the point in time at which the right to consideration becomes unconditional, as only the passage of time is required before
+       payment is due. The Company uses its accumulated historical experience to estimate the number of returns on a portfolio level
+       using the expected value method. It is considered highly probable that a significant reversal in the cumulative revenue
+       recognised will not occur given the consistent level of returns over previous years.
+
+                                                                                         8
+                                                                                                                                                              Guinness Nigeria PLC
+                                                                                                                                                 Unaudited Financial Statements
+                                                                                                                                                For the period ended 31-03-2026
+
+ 3 Summary of material accounting policies - continued
+
+3.1 Revenue - continued
+
+       Advance payments
+       The Company has contracts with customers that requires advance payment to be made before sale of drinks can occur. The
+       Company has considered whether the contract contains a financing component and whether that financing component is
+       significant to the contract, including both of the following;
+       (a) The difference, if any, between the amount of promised consideration and cash selling price and;
+       (b) The combined effect of both the following:
+       - The expected length of time between when the Company transfers the product to their customers and when payment is
+       received and;
+       - The prevailing interest rate in the relevant market.
+       The advance period is less than 12 months, usually within 30 days. As a result, the effect of discounting will not be material.
+       The Company does not expect to have any contracts where the period between the transfer of the promised goods or services
+       to the customer and payment by the customer exceeds one year. Consequently, the Company does not adjust any of the
+       transaction prices for the time value of money.
+
+       Customer deposit liability
+       Customer deposit liability (CDL) relates to the returnable packaging deposits that are in trade with distributors and wholesalers
+       but are considered the company's assets. CDL balance assessment is carried out during the financial year and CDL is posted
+       based on physical count and business backgrounds.
+       Recognition of contract liabilities
+       The Company introduced the presentation of liabilities in the statement of financial position to reflect the requirements of IFRS
+       15. Contract liabilities have been reclassified from customer deposits as at 31 March 2026 which are advance payments
+       received from customers.
+       Rendering of services
+
+       Revenue on delivery services are recognized when the goods have been shipped to the required location. Control passes to the
+       customer over time as the goods are being transported but recognizes revenue at a point in time. This is because the company
+       has assessed the impact of an overtime recognition to be immaterial since the delivery is short term in nature.
+
+       Contingent assets
+       A contingent asset is a possible asset that arises from past events, and whose existence will be confirmed only by the
+       occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the Company.
+       Contingent assets are not recognized in the financial statements since this may result in the recognition of income that may
+       never be realized. However, when the realization of income is virtually certain, then the related asset is not a contingent asset
+       and its recognition is appropriate. A contingent asset is disclosed in the notes to the financial statements where an inflow of
+       economic benefits is probable. Contingent assets are assessed continually to ensure that developments are appropriately
+       reflected in the financial statements. If it has become virtually certain that an inflow of economic benefits will arise, the asset
+       and the related income are recognized in the financial statements of the period in which the change occurs.
+
+       Export Credit Certificate
+       The company treats Export Credit Certificate (ECC) as contingent asset. ECC is recognized in the period it is received and
+       included as part of Other income in the financial statements
+3.2 Interest income
+       Interest income from a financial asset is recognised when it is probable that the economic benefits will flow to the Company
+       and the amount of income can be measured reliably. Interest income is accrued on a time basis, by reference to the principal
+       outstanding and at the effective interest rate applicable, which is the rate that exactly discounts estimated future cash receipts
+       through the expected life of the financial asset to that asset's net carrying amount on initial recognition.
+
+                                                                                         9
+                                                                                                                                                               Guinness Nigeria PLC
+                                                                                                                                                  Unaudited Financial Statements
+                                                                                                                                                 For the period ended 31-03-2026
+
+  3 Summary of material accounting policies - continued
+
+ 3.3 Leases
+        As per IFRS 16 "Leases" the standard removes the current distinction between operating and financing leases and requires
+        recognition of an asset (the right to use the leased item) and a financial liability to pay rentals for virtually all lease contracts.
+        An optional exemption exists for short-term and low-value leases. The accounting by lessors will not significantly change.
+        Leases are classified as finance leases whenever the terms of the lease transfer substantially all the risks and rewards of
+        ownership to the lessee. other leases are classified as operating leases.
+
+3.3.1 The Company as lessee
+
+        The Company assesses whether a contract is, or contains, a lease, at inception of the contract. The Company recognises a right-
+        of-use asset and a corresponding lease liability with respect to all lease arrangements in which it is the lessee, except for short-
+        term leases (defined as leases with a lease term of 12 months or less) and leases of low-value assets (such as tablets and
+        personal computers, small items of office furniture and telephones). For these leases, the Company recognises the lease
+        payments as an operating expense on a straight-line basis over the term of the lease unless another systematic basis is more
+        representative of the time pattern in which economic benefits from the leased assets are consumed.
+
+        The lease liability is initially measured at the present value of the lease payments that are not paid at the commencement
+        date, discounted by using the rate implicit in the lease. If this rate cannot be readily determined, the Company uses its
+        incremental borrowing rate.
+
+3.3.2 Measurement
+        The incremental borrowing rate depends on the term, currency and start date of the lease and is determined based on a series
+        of inputs including the risk-free rate based on government bond rates a country-specific risk adjustment a credit risk
+        adjustment based on bond yields and an entity-specific adjustment when the risk profile of the entity that enters into the lease
+        is different to that of the Company and the lease does not benefit from a guarantee from the Company.
+
+        Lease payments included in the measurement of the lease liability comprise:
+         Fixed lease payments (including in-substance fixed payments), less any lease incentives receivable;
+         Variable lease payments that depend on an index or rate, initially measured using the index or rate at the commencement
+        date;
+         The amount expected to be payable by the lessee under residual value guarantees;
+         The exercise price of purchase options, if the lessee is reasonably certain to exercise the options; and
+        The lease liability is subsequently measured by increasing the carrying amount to reflect interest on the lease liability (using
+        the effective interest method) and by reducing the carrying amount to reflect the lease payments made.
+
+        The Company remeasures the lease liability (and makes a corresponding adjustment to the related right-of-use asset)
+        whenever:
+         The lease term has changed or there is a significant event or change in circumstances resulting in a change in the
+        assessment of exercise of a purchase option, in which case the lease liability is remeasured by discounting the revised lease
+        payments using a revised discount rate;
+         The lease payments change due to changes in an index or rate or a change in expected payment under a guaranteed
+        residual value, in which cases the lease liability is remeasured by discounting the revised lease payments using an unchanged
+        discount rate (unless the lease payments change is due to a change in a floating interest rate, in which case a revised discount
+        rate is used); and
+        · A lease contract is modified and the lease modification is not accounted for as a separate lease, in which case the lease
+        liability is remeasured based on the lease term of the modified lease by discounting the revised lease payments using a revised
+        discount rate at the effective date of the modification. The Company did not make any such adjustments during the periods
+        presented.
+
+                                                                                          10
+                                                                                                                                                              Guinness Nigeria PLC
+                                                                                                                                                 Unaudited Financial Statements
+                                                                                                                                                For the period ended 31-03-2026
+
+ 3 Summary of material accounting policies - continued
+
+3.3 Leases - continued
+
+       Right-of-Use Assets
+       The right-of-use assets comprise the initial measurement of the corresponding lease liability, lease payments made at or
+       before the commencement day. less any lease incentives received and any initial direct costs. They are subsequently measured
+       at cost less accumulated depreciation and impairment losses. Whenever the Company incurs an obligation for costs to
+       dismantle and remove a leased asset, restore the site on which it is located or restore the underlying asset to the condition
+       required by the terms and conditions of the lease, a provision is recognised and measured under IAS 37. To the extent that the
+       costs relate to a right-of-use asset, the costs are included in the related right-of-use asset, unless those costs are incurred to
+       produce inventories.
+
+       The right-of-use assets are presented as a separate line in the consolidated statement of financial position. The Company
+       applies IAS 36 to determine whether a right-of-use asset is impaired and accounts for any identified impairment loss as
+       described in the `Property, Plant and Equipment' policy. Variable rents that do not depend on an index or rate are not included
+       in the measurement the lease liability and the right-of-use asset. The related payments are recognised as an expense in the
+       period in which the event or condition that triggers those payments occurs and are included in the line "Other expenses" in
+       profit or loss. As a practical expedient, IFRS 16 permits a lessee not to separate non-lease components, and instead account for
+       any lease and associated non-lease components as a single arrangement. The Company has not used this practical expedient.
+       For a contract that contains a lease component and one or more additional lease or non-lease components, the Company
+       allocates the consideration in the contract to each lease component on the basis of the relative stand-alone price of the lease
+       component and the aggregate stand-alone price of the non-lease components.
+
+       Right-of-use assets are depreciated over the shorter period of lease term and useful life of the underlying asset. If a lease
+       transfers ownership of the underlying asset or the cost of the right-of-use asset reflects that the Company expects to exercise a
+       purchase option, the related right-of-use asset is depreciated over the useful life of the underlying asset. The depreciation
+       starts at the commencement date of the lease.
+
+3.4 Foreign currencies translation
+       The financial statements of the Company are presented in Naira,which is the functional currency. In preparing the financial
+       statements, transactions in currencies other than the functional currency (foreign currencies) are recorded at the rates of
+       exchange prevailing on the dates of the transactions.
+
+       Monetary assets and liabilities that are denominated in foreign currencies are re-translated at the rates prevailing at the
+       reporting date. Non-monetary items carried at fair value that are denominated in foreign currencies are translated at the rates
+       prevailing at the date when the fair value was determined. Non-monetary items that are measured in terms of historical cost in
+       a foreign currency are not retranslated.
+3.5 Borrowing costs
+       Borrowing costs directly attributable to the acquisition, construction or production of qualifying assets, which are assets that
+       necessarily take a substantial period of time to get ready for their intended use or sale, are added to the cost of those assets,
+       until such time as the assets are substantially ready for their intended use or sale. Investment income earned on the temporary
+       investment of specific borrowings pending their expenditure on qualifying assets is deducted from the borrowing costs eligible
+       for capitalisation.
+
+       All other borrowing costs are recognised in profit or loss in the period in which they are incurred.
+
+                                                                                         11
+                                                                                                                                                              Guinness Nigeria PLC
+                                                                                                                                                 Unaudited Financial Statements
+                                                                                                                                                For the period ended 31-03-2026
+
+ 3 Summary of material accounting policies - continued
+
+3.6 Taxation
+
+       The tax expense for the period comprises current and deferred income tax. Current and deferred tax is recognized in profit or
+       loss, except to the extent that it relates to items recognized in other comprehensive income or directly in equity. In this case,
+       the tax is also recognized in other comprehensive income or directly in equity respectively.
+
+       i. Current income tax
+
+       The current income tax charge is calculated on the basis of the tax laws enacted or substantively enacted at the end of the
+       reporting period. The directors periodically evaluate positions taken in tax returns with respect to situations in which
+       applicable tax regulation is subject to interpretation. It establishes provisions where appropriate on the basis of amounts
+       expected to be paid to the tax authorities.
+       Tax assets and liabilities are offset if there is a legally enforceable right to offset current tax liabilities and assets, and they
+       relate to income taxes levied by the same tax authority on the same taxable entity, or on different tax entities, but they intend
+       to settle current tax liabilities and assets on a net basis or their tax assets and liabilities will be realized simultaneously.
+
+       ii. Deferred income tax
+       Deferred tax is recognized, using the liability method, on temporary differences arising between the carrying amounts of assets
+       and liabilities for financial reporting purposes and the amounts used for taxation purposes. Deferred tax is not recognized for
+       the following temporary differences:
+       i. the initial recognition of assets or liabilities in a transaction that is not a business combination and that affects neither
+       accounting nor taxable income statement.
+       ii. differences relating to investments in subsidiaries and jointly controlled entities to the extent that it is probable that they
+       will not reverse in the foreseeable future.
+       iii. temporary differences arising on the initial recognition of goodwill.
+       Deferred income tax is determined using tax rates (and laws) that have been enacted or substantively enacted at the reporting
+       date, and are expected to apply when the related deferred income tax asset is realized or the deferred income tax liability is
+       settled.
+       Deferred income tax assets are recognized only to the extent that it is probable that future taxable profits will be available
+       against which the temporary differences can be utilized.
+
+3.7 Earnings per share
+       Earnings per share (EPS) is calculated by dividing profit or loss attributable to ordinary shareholders of the Company by the
+       weighted average number of ordinary shares outstanding during the period.
+
+3.8 Property, plant and equipment
+(i) Recognition and measurement
+
+       Land and building held for use in the production or supply of goods or services for rental to others (excluding investment
+       properties), or for administrative purposes, are stated in the statement of financial position at their revalued amounts, being
+       the fair value at the date of revaluation, less any accumulated depreciation and accumulated impairment losses. Revaluations
+       are performed with sufficient regularity with a gap of one year such that the carrying amount does not differ materially from
+       that which would be determined using fair values at the reporting date.
+
+       Any revaluation increase arising on the revaluation of such land is credited to the property's revaluation reserve, except to the
+       extent that it reverses a revaluation decrease for the same asset previously recognised as an expense, in which case the
+       increase is credited to profit or loss to the extent of the decrease previously expensed. A decrease in the carrying amount
+       arising on the revaluation of such land is charged as an expense to the extent that it exceeds the balance, if any, held in the
+       property's revaluation reserve relating to a previous revaluation of that asset.
+
+       Depreciation on revalued assets is recognised in profit or loss. On the subsequent sale or retirement of a revalued property,
+       the attributable revaluation surplus remaining in the property's revaluation reserve is transferred directly to retained earnings.
+
+                                                                                         12
+                                                                                                       Guinness Nigeria PLC
+                                                                                          Unaudited Financial Statements
+                                                                                         For the period ended 31-03-2026
+
+ 3 Summary of material accounting policies - continued
+
+3.8 Property, plant and equipment - continued
+(i) Recognition and measurement - continued
+
+       Properties in the course of construction for production, supply or administrative purposes or for purposes not yet determined,
+       are carried at a cost less any recognised impairment loss. Cost includes professional fees and, for qualifying assets, borrowing
+       costs capitalised in accordance with the Company's accounting policy. Depreciation of these assets, determined on the same
+       basis as other property assets, commences when the assets are ready for their intended use.
+
+(ii) Derecognition of asset
+
+       An item of property, plant and equipment is derecognised upon disposal or when no future economic benefits are expected to
+       arise from the continued use of the asset. The gain or loss arising on the disposal or retirement of an asset is determined as the
+       difference between the sales proceeds and the carrying amount of the asset and is recognised in profit or loss.
+
+(iii) Subsequent costs
+
+       The cost of replacing a part of an item of property, plant and equipment is recognised in the carrying amount of the item if it is
+       probable that the future economic benefits embodied within the part will flow to the Company and its cost can be measured
+       reliably. The carrying amount of the replaced part is de-recognised. The costs of the day-to-day servicing of property, plant and
+       equipment are recognised in profit or loss as incurred.
+
+(iv) Depreciation
+
+Property, plant and equipment are stated at cost less accumulated depreciation and accumulated impairment loss.
+Depreciation is recognised so as to write off the cost or valuation of assets (other than freehold land and properties under
+construction) less their residual values over their useful lives, using the straight-line method, on the following bases:
+
+                                Class of assets Estimated useful life range (Years)
+
+Buildings                       10 - 60years
+
+Plant and machinery             2 - 50 years
+
+Furniture and fittings          5 - 10 years
+
+Motor vehicles                  4 - 5years
+
+Returnable packaging materials  5 - 10 years
+
+Freehold land is considered to have an indefinite useful life, hence is not depreciated
+
+Depreciation methods, useful life and residual values are reviewed at each financial year end and adjusted if appropriate.
+Capital work in progress is not depreciated. The attributable cost of each asset is transferred to the relevant asset category
+immediately after the asset is put to use and depreciated accordingly. Lease hold land is amortised over the lease year.
+
+       An item of property, plant and equipment is derecognised upon disposal or when no future economic benefits are expected to
+       arise from the continued use of the asset. The gain or loss arising on the disposal or retirement of an asset is determined as the
+       difference between the sales proceeds and the carrying amount of the asset and is recognised in profit or loss.
+
+(v) Returnable packaging
+       As returnable packaging is the fixed asset of the Company, the expectation is that the customer will regularly return them,
+       therefore they are not due for payment.
+       The asset values are maintained accurately through the normal depreciation process - where the gross book value of a
+       returnable packaging asset is constantly and actively reduced throughout the period of useful life in a linear way.
+        Depreciation of returnable packaging:
+       Bottles ­ 5 years
+       Crates ­ 10 years
+       Kegs ­ 10 years
+
+       The asset quantities must be accurate to ensure that the reported quantity of returnable packaging in fixed asset register is
+       reliable and represents the total population of bottles/kegs/crates available for the business, therefore can serve as a basis for
+       commercial planning, production planning and enable the right business decisions.
+
+                                              13
+                                                                                                                                                                Guinness Nigeria PLC
+                                                                                                                                                   Unaudited Financial Statements
+                                                                                                                                                  For the period ended 31-03-2026
+
+   3 Summary of material accounting policies - continued
+
+ 3.9 Impairment of tangible and intangible assets other than goodwill
+         At each reporting date, the Company reviews the carrying amounts of its property, plant and equipment and intangible assets
+         to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists,
+         the recoverable amount of the asset is estimated to determine the extent of the impairment loss (if any).
+
+         Where the asset does not generate cash flows that are independent from other assets, the Company estimates the recoverable
+         amount of the cash-generating unit to which the asset belongs. When a reasonable and consistent basis of allocation can be
+         identified, corporate assets are also allocated to individual cash-generating units, or otherwise they are allocated to the
+         smallest Company of cash-generating units for which a reasonable and consistent allocation basis can be identified.
+
+         Recoverable amount is the higher of fair value less costs to sell and value in use. In assessing value in use, the estimated future
+         cash flows are discounted to their present value using a pre-tax discount rate that reflects current market assessments of the
+         time value of money and the risks specific to the asset for which the estimates of future cash flows have not been adjusted. If
+         the recoverable amount of an asset (or cash-generating unit) is estimated to be less than its carrying amount, the carrying
+         amount of the asset (or cash-generating unit) is reduced to its recoverable amount. An impairment loss is recognised
+         immediately in profit or loss, unless the relevant asset is carried at a revalued amount, in which case the impairment loss is
+         treated as a revaluation decrease and to the extent that the impairment loss is greater than the related revaluation surplus,
+         the excess impairment loss is recognised in profit or loss.
+
+         Where an impairment loss subsequently reverses, the carrying amount of the asset (or cash-generating unit) is increased to the
+         revised estimate of its recoverable amount, but so that the increased carrying amount does not exceed the carrying amount
+         that would have been determined had no impairment loss been recognised for the asset (or cash-generating unit) in prior
+         years. A reversal of an impairment loss is recognised immediately in profit or loss to the extent that it eliminates the
+         impairment loss which has been recognised for the asset in prior years. Any increase in excess of this amount is treated as a
+         revaluation increase.
+
+         The estimated useful lives for the current and preceding years are as follows:
+         Computer software- SAP ­ 15 years
+         Computer software-others ­ 5 years
+         Distribution right ­ 5 years
+
+         Amortization methods, useful lives and residual values are reviewed at each financial year-end and, if expectations differ
+         from previous estimates, any change is accounted for prospectively as a change in estimate under IAS 8.
+
+ 3.10 Short-term employee benefits
+
+3.10.1 Defined contribution plans
+         A defined contribution plan is a post-employment benefit plan under which an entity makes contributions into a separate
+         entity and will have no legal or constructive obligation to pay further amounts. Obligations for contributions to defined
+         contribution pension plans are recognised as an expense in profit or loss in the year during which services are rendered by
+         employees.
+         The Company has a pension fund scheme as defined contribution plan. A specified amount is contributed by the Company to
+         third party fund managers and recognized as an employee benefit expense to income statement over the service life of the
+         employees.
+         The Company operates a defined contribution pension plan in accordance with the Pension Reform Act 2014. The contribution
+         payable to a defined contribution plan is in proportion to the services rendered to the Company by the employees and is
+         recorded as an expense in statement of profit or loss and other comprehensive income. The Contribution by the employee is
+         8% and by the employer is 10% or 12% of the employees' emoluments.
+
+                                                                                          14
+                                                                                                                                                                Guinness Nigeria PLC
+                                                                                                                                                   Unaudited Financial Statements
+                                                                                                                                                  For the period ended 31-03-2026
+
+   3 Summary of material accounting policies - continued
+
+ 3.10 Short-term employee benefits - continued
+
+3.10.2 Retirement benefits costs and termination benefits
+         Defined benefit plans are post-employment benefit plans other than defined contribution plans.
+         The Company has a defined contribution gratuity scheme for management and non-management staff. Under this scheme, a
+         specified amount is contributed by the Company to third party fund managers and recognized as an employee benefit expense
+         to income statement over the service life of the employees.
+         For defined benefit retirement benefit plans, the cost of providing benefits is determined using the projected unit credit
+         method, with actuarial valuations being carried out at the end of each annual reporting year.
+         Remeasurement, comprising actuarial gains and losses, the effect of the changes to the asset ceiling (if applicable) and the
+         return on plan assets (excluding interest), is reflected immediately in the statement of financial position with a charge or credit
+         recognised in other comprehensive income in the year in which they occur. Remeasurement recognised in other
+         comprehensive income is reflected immediately in retained earnings and will not be reclassified to profit or loss. Past service
+         cost is recognised in profit or loss in the year of a plan amendment. Net interest is calculated by applying the discount rate at
+         the beginning of the year to the net defined benefit liability or asset.
+         Defined benefit costs are split into three categories:
+
+  · Service costs, which include current service cost, past service cost and gains and losses on curtailments and settlements;
+  · Net interest expense or income; and
+  · Remeasurement.
+
+         The defined benefit liability comprises the present value of the defined benefit obligation (using a discounted rate based on
+         high-quality government bonds), less past service cost.
+         The retirement benefit obligation recognised in the consolidated statement of financial position represents the deficit or
+         surplus in the Company's defined benefit plans. Any surplus resulting from this calculation is limited to the present value of any
+         economic benefits available in the form of refunds from the plans or reductions in future contributions to the plans.
+
+         A liability for a termination benefit is recognised at the earlier of when the entity can no longer withdraw the offer of the
+         termination benefit and when the entity recognises any related restructuring costs.
+
+3.10.3 Other employee benefits
+         A liability is recognised for benefits accruing to employees in respect of wages and salaries, annual leave and sick leave in the
+         period the related service is rendered at the undiscounted amount of the benefits expected to be paid in exchange for that
+         service.
+         Liabilities recognised in respect of short-term employee benefits are measured at the undiscounted amount of the benefits
+         expected to be paid in exchange for the related service.
+         Liabilities recognised in respect of other long-term employee benefits are measured at the present value of the estimated
+         future cash outflows expected to be made by the Company in respect of services provided by employees up to the reporting
+         date.
+
+                                                                                          15
+                                                                                           Guinness Nigeria PLC
+                                                                              Unaudited Financial Statements
+                                                                             For the period ended 31-03-2026
+
+ 3 Summary of material accounting policies - continued
+3.11 Inventories
+
+        Inventories are stated at the lower of cost and net realisable value. Cost comprises direct materials and, where applicable,
+        direct labour costs and those overheads that have been incurred in bringing the inventories to their present location and
+        condition. Cost is calculated using the standard costing method. Net realisable value represents the estimated selling price less
+        all estimated costs of completion and costs to be incurred in marketing and selling.The basis of costing is as follows:
+
+Raw materials, non-returnable packaging ­ purchase cost on a weighted average basis including transportation and
+
+materials and consumable spare parts       applicable clearing charges
+
+Finished products and products-in-process  ­ average cost of direct materials and labour plus the appropriate amount
+                                           attributable to production overheads based on normal production capacity
+
+Inventories-in-transit                     ­ purchase cost incurred to date
+
+Inventories are regularly assessed for obsolescence, or whether their carrying amount exceeds their net realizable value
+(sales price less costs to sell) and appropriate provisions are recognized. Inventory values are adjusted for obsolete,
+slow moving or defec ve items
+
+3.12 Provisions
+
+        Provisions are recognised when the Company has a present obligation as a result of a past event, and it is probable that the
+        Company will be required to settle that obligation and a reliable estimate can be made of the amount of the obligation.
+
+        The amount recognised as a provision is the best estimate of the consideration required to settle the present obligation at the
+        end of the reporting year, taking into account the risks and uncertainties surrounding the obligation. When a provision is
+        measured using the cash flows estimated to settle the present obligation, its carrying amount is the present value of those
+        cash flows (when the effect of the time value of money is material).
+
+        When some or all of the economic benefits required to settle a provision are expected to be recovered from a third party, a
+        receivable is recognised as an asset if it is virtually certain that reimbursement will be received and the amount of the
+        receivable can be measured reliably.
+
+3.13 Contingent liabilities
+        A contingent liability is a possible obligation that arises from past events and whose existence will be confirmed only by the
+        occurrence or non-occurrence of one or more uncertain future events not wholly within the control of the Company, or a
+        present obligation that arises from past events but is not recognised because it is not probable that an outflow of resources
+        embodying economic benefits will be required to settle the obligation, or the amount of the obligation cannot be measured
+        with sufficient reliability.
+        Contingent liabilities are only disclosed and not recognised as liabilities in the statement of financial position. If the likelihood
+        of an outflow of resources is remote, the possible obligation is neither a provision nor a contingent liability and no disclosure is
+        made.
+
+3.14 Financial instruments
+        Financial assets and financial liabilities are recognised in the Company's statement of financial position when the Company
+        becomes a party to the contractual provisions of the instrument.
+
+        Financial assets and financial liabilities are initially measured at fair value, except for trade receivables that do not have a
+        significant financing component which are measured at transaction price. Transaction costs that are directly attributable to the
+        acquisition or issue of financial assets and financial liabilities (other than financial assets and financial liabilities at fair value
+        through profit or loss are added to or deducted from the fair value of the financial assets or financial liabilities, as appropriate,
+        on initial recognition. Transaction costs directly attributable to the acquisition of financial assets or financial liabilities at fair
+        value through profit or loss are recognised immediately in profit or loss.
+
+                                                                                         16
+                                                                                                                              Guinness Nigeria PLC
+                                                                                                                 Unaudited Financial Statements
+                                                                                                                For the period ended 31-03-2026
+
+   3 Summary of material accounting policies - continued
+
+ 3.14 Financial instruments - continued
+
+3.14.1 Financial assets - continued
+
+  a. Business model assessment
+         This assessment includes judgement reflecting all relevant evidence including how the performance of the assets is evaluated
+         and their performance measured, the risks that affect the performance of the assets and how these are managed and how the
+         managers of the assets are compensated.
+         The Company monitors financial assets measured at amortised cost or fair value through other comprehensive income that are
+         derecognised prior to their maturity to understand the reason for their disposal and whether the reasons are consistent with
+         the objective of the business for which the asset was held.
+
+         Monitoring is part of the Company's continuous assessment of whether the business model for which the remaining financial
+         assets are held continues to be appropriate and if it is not appropriate whether there has been a change in business model and
+         so a prospective change to the classification of those assets. No such changes were required during the periods presented.
+
+b. Foreign exchange gains and losses
+
+The carrying amount of financial assets that are denominated in a foreign currency is determined in that foreign currency and
+translated using the autonomous market rate at the end of each reporting period. Specifically:
+
+  For financial assets measured at amortised cost that are not part of a designated hedging relationship, exchange
+
+differences are recognised in profit or loss in the `Other gains and losses';
+
+  For debt instruments measured at FVTOCI that are not part of a designated hedging relationship, exchange differences
+
+on the amortised cost of the debt instrument are recognised in profit or loss in the `Other gains and losses';
+
+c. Impairment of financial assets
+
+The Company recognises a loss allowance for expected credit losses on investments in debt instruments that are measured at
+amortised cost or at Fair value through other comprehensive income, lease receivables, trade receivables and contract assets,
+as well as on financial guarantee contracts. The amount of expected credit losses is updated at each reporting date to reflect
+changes in credit risk since initial recognition of the respective financial instrument.
+
+The Company always recognises lifetime expected credit losses (ECL) for trade receivables, contract assets and lease
+receivables. The expected credit losses on these financial assets are estimated using a provision matrix based on the
+Company's historical credit loss experience, adjusted for factors that are specific to the debtors, general economic conditions
+and an assessment of both the current as well as the forecast direction of conditions at the reporting date, including time value
+of money where appropriate.
+
+For all other financial instruments, the Company recognises lifetime ECL when there has been a significant increase in credit
+risk since initial recognition. However, if the credit risk on the financial instrument has not increased significantly since initial
+recognition, the Company measures the loss allowance for that financial instrument at an amount equal to 12-month ECL.
+
+Lifetime ECL represents the expected credit losses that will result from all possible default events over the expected life of a
+financial instrument. In contrast, 12-month ECL represents the portion of lifetime ECL that is expected to result from default
+events on a financial instrument that are possible within 12 months after the reporting date.
+
+                                      17
+                                                                         Guinness Nigeria PLC
+                                                            Unaudited Financial Statements
+                                                           For the period ended 31-03-2026
+
+3 Summary of material accounting policies - continued
+
+3.14 Financial instruments - continued
+
+d. Impairment of financial assets
+
+(i)  Significant increase in credit risk
+
+In assessing whether the credit risk on a financial instrument has increased significantly since initial recognition, the Company
+compares the risk of a default occurring on the financial instrument at the reporting date with the risk of a default occurring on
+the financial instrument at the date of initial recognition. In making this assessment, the Company considers both quantitative
+and qualitative information that is reasonable and supportable, including historical experience and forward-looking
+information that is available without undue cost or effort. Forward looking information considered includes the future
+prospects of the industries in which the Company's debtors operate, obtained from economic expert reports, financial
+analysts, governmental bodies, relevant think-tanks and other similar organisations, as well as consideration of various
+external sources of actual and forecast economic information that relate to the Company's core operations.
+
+In particular, the following information is taken into account when assessing whether credit risk has increased significantly
+since initial recognition:
+
+ An actual or expected significant deterioration in the financial instrument's external (if available) or internal credit rating;
+
+ Significant deterioration in external market indicators of credit risk for a particular financial instrument, e.g. a significant
+increase in the credit spread, the credit default swap prices for the debtor, or the length of time or the extent to which the fair
+value of a financial asset has been less than its amortised cost;
+
+ Existing or forecast adverse changes in business, financial or economic conditions that are expected to cause a significant
+decrease in the debtor's ability to meet its debt obligations;
+ An actual or expected significant deterioration in the operating results of debtor;
+ Significant increases in credit risk on other financial instruments of the same debtor;
+
+· An actual or expected significant adverse change in the regulatory, economic, or technological environment of the debtor
+that results in a significant decrease in the debtor's ability to meet its debt obligations. Irrespective of the outcome of the
+above assessment, the Company presumes that the credit risk on a financial asset has increased significantly since initial
+recognition when contractual payments are more than 30 days past due, unless the Company has reasonable and supportable
+information that demonstrates otherwise.
+
+Despite the foregoing, the Company assumes that the credit risk on a financial instrument has not increased significantly since
+initial recognition if the financial instrument is determined to have low credit risk at the reporting date. A financial instrument
+is determined to have low credit risk if:
+
+ The financial instrument has a low risk of default;
+ The debtor has a strong capacity to meet its contractual cash flow obligations in the near term; and
+
+ Adverse changes in economic and business conditions in the longer term may, but will not necessarily, reduce the ability of
+the borrower to fulfil its contractual cash flow obligations.
+
+The Company considers a financial asset to have low credit risk when the asset has external credit rating of `investment grade'
+in accordance with the globally understood definition or if an external rating is not available, the asset has an internal rating of
+`performing'. Performing means that the counterparty has a strong financial position and there are no past due amounts.
+
+For financial guarantee contracts, the date that the Company becomes a party to the irrevocable commitment is considered to
+be the date of initial recognition for the purposes of assessing the financial instrument for impairment. In assessing whether
+there has been a significant increase in the credit risk since the initial recognition of a financial guarantee contract, the
+Company considers the changes in the risk that the specified debtor will default on the contract.
+
+The Company regularly monitors the effectiveness of the criteria used to identify whether there has been a significant increase
+in credit risk and revises them as appropriate to ensure that the criteria are capable of identifying a significant increase in
+credit risk before the amount becomes past due.
+
+                                                       18
+                                                                                                                                                               Guinness Nigeria PLC
+                                                                                                                                                  Unaudited Financial Statements
+                                                                                                                                                For the period ended 31-03-2026
+
+ 3 Summary of material accounting policies - continued
+
+3.14 Financial instruments - continued
+
+ (ii) Definition of default
+        The Company considers the following as constituting an event of default for internal credit risk management purposes as
+        historical experience indicates that financial assets that meet either of the following criteria are generally not recoverable:
+         When there is a breach of financial covenants by the debtor; and
+         Information developed internally or obtained from external sources indicates that the debtor is unlikely to pay its creditors,
+        including the Company, in full (without taking into account any collateral held by the Company).
+        Irrespective of the above analysis, the Company considers that default has occurred when a financial asset is more than 90
+        days past due unless the Company has reasonable and supportable information to demonstrate that a more lagging default
+        criterion is more appropriate.
+
+(iii) Credit-impaired financial assets
+        A financial asset is credit-impaired when one or more events that have a detrimental impact on the estimated future cash
+        flows of that financial asset have occurred. Evidence that a financial asset is credit-impaired includes observable data about the
+        following events:
+         Significant financial difficulty of the issuer or the borrower;
+         A breach of contract, such as a default or past due event (see (ii) above);
+         The lender(s) of the borrower, for economic or contractual reasons relating to the borrower's financial difficulty, having
+        granted to the borrower a concession(s) that the lender(s) would not otherwise consider;
+         It is becoming probable that the borrower will enter bankruptcy or other financial reorganisation; and
+         The disappearance of an active market for that financial asset because of financial difficulties.
+
+(iv) Write-off policy
+
+        The Company writes off a financial asset when there is information indicating that the debtor is in severe financial difficulty
+        and there is no realistic prospect of recovery, e.g. when the debtor has been placed under liquidation or has entered into
+        bankruptcy proceedings, or in the case of trade receivables, when the amounts are over two years past due, whichever occurs
+        sooner. Financial assets written off may still be subject to enforcement activities under the Company's recovery procedures,
+        taking into account legal advice where appropriate. Any recoveries made are recognised in profit or loss.
+
+ (v) Measurement and recognition of expected credit losses
+
+        The measurement of expected credit losses is a function of the probability of default, loss given default (i.e. the magnitude of
+        the loss if there is a default) and the exposure at default. The assessment of the probability of default and loss given default is
+        based on historical data adjusted by forward-looking information as described above. As for the exposure at default, for
+        financial assets, this is represented by the assets' gross carrying amount at the reporting date; for financial guarantee
+        contracts, the exposure includes the amount drawn down as at the reporting date, together with any additional amounts
+        expected to be drawn down in the future by default date determined based on historical trend, the Company's understanding
+        of the specific future financing needs of the debtors, and other relevant forward-looking information.
+
+        For financial assets, the expected credit loss is estimated as the difference between all contractual cash flows that are due to
+        the Company in accordance with the contract and all the cash flows that the Company expects to receive, discounted at the
+        original effective interest rate. For a lease receivable, the cash flows used for determining the expected credit losses is
+        consistent with the cash flows used in measuring the lease receivable in accordance with IFRS 16.
+
+        If the Company has measured the loss allowance for a financial instrument at an amount equal to lifetime ECL in the previous
+        reporting period but determines at the current reporting date that the conditions for lifetime ECL are no longer met, the
+        Company measures the loss allowance at an amount equal to 12-month ECL at the current reporting date, except for assets for
+        which the simplified approach was used. The Company recognises an impairment gain or loss in profit or loss for all financial
+        instruments with a corresponding adjustment to their carrying amount through a loss allowance account, except for
+        investments in debt instruments that are measured at FVTOCI, for which the loss allowance is recognised in other
+        comprehensive income and accumulated in the investment revaluation reserve and does not reduce the carrying amount of
+        the financial asset in the statement of financial position.
+
+                                                                                         19
+                                                                                                                                                                Guinness Nigeria PLC
+                                                                                                                                                   Unaudited Financial Statements
+                                                                                                                                                  For the period ended 31-03-2026
+
+   3 Summary of material accounting policies - continued
+
+ 3.14 Financial instruments - continued
+
+  (e) Derecognition of financial assets
+
+         The Company derecognises a financial asset only when the contractual rights to the cash flows from the asset expire, or when
+         it transfers the financial asset and substantially all the risks and rewards of ownership of the asset to another entity. If the
+         Company neither transfers nor retains substantially all the risks and rewards of ownership and continues to control the
+         transferred asset, the Company recognises its retained interest in the asset and an associated liability for amounts it may have
+         to pay. If the Company retains substantially all the risks and rewards of ownership of a transferred financial asset, the
+         Company continues to recognise the financial asset and also recognises a collateralised borrowing for the proceeds received.
+
+         On derecognition of a financial asset measured at amortised cost, the difference between the asset's carrying amount and the
+         sum of the consideration received and receivable is recognised in profit or loss. In addition, on derecognition of an investment
+         in a debt instrument classified as at FVTOCI, the cumulative gain or loss previously accumulated in the investment's revaluation
+         reserve is reclassified to profit or loss in contrast, on derecognition of an investment in an equity instrument which the
+         Company has elected on initial recognition to measure at FVTOCI, the cumulative gain or loss previously accumulated in the
+         investment's revaluation reserve is not reclassified to profit or loss but is transferred to retained earnings.
+
+3.14.2 Classification as debt or equity
+         Debt and equity instruments are classified as either financial liabilities or as equity in accordance with the substance of the
+         contractual arrangements and the definitions of a financial liability and an equity instrument.
+
+  (a) Equity instruments
+         An equity instrument is any contract that evidences a residual interest in the assets of an entity after deducting all of its
+         liabilities. Equity instruments issued by the Company are recognised at the proceeds received, net of direct issue costs. The
+         repurchase of the Company's own equity instruments is recognised and deducted directly in equity. No gain or loss is
+         recognised in profit or loss on the purchase, sale, issue or cancellation of the Company's own equity instruments.
+
+  (b) Financial Liabilities
+         All financial liabilities are measured subsequently at amortised cost using the effective interest method or at FVTPL.
+         However, financial liabilities that arise when a transfer of a financial asset does not qualify for derecognition or when the
+         continuing involvement approach applies, and financial guarantee contracts issued by the Company, are measured in
+         accordance with the specific accounting policies set out below.
+         Financial liabilities at FVTPL are measured at fair value, with any gains or losses arising on changes in fair value recognised in
+         profit or loss to the extent that they are not part of a designated hedging relationship (see Hedge accounting policy). The net
+         gain or loss recognised in profit or loss incorporates any interest paid on the financial liability and is included in the `Other
+         gains and losses' line item.
+         However, for financial liabilities that are designated as at FVTPL, the amount of change in the fair value of the financial liability
+         that is attributable to changes in the credit risk of that liability is recognised in other comprehensive income, unless the
+         recognition of the effects of changes in the liability's credit risk in other comprehensive income would create or enlarge an
+         accounting mismatch in profit or loss.
+         The remaining amount of change in the fair value of liability is recognised in profit or loss. Changes in fair value attributable to
+         a financial liability's credit risk that are recognised in other comprehensive income are not subsequently reclassified to profit or
+         loss.
+
+         Financial liabilities that are not (i) contingent consideration of an acquirer in a business combination, (ii) held-for trading, or (iii)
+         designated as at FVTPL, are measured subsequently at amortised cost using the effective interest method.
+
+         The effective interest method is a method of calculating the amortised cost of a financial liability and of allocating interest
+         expense over the relevant period. The effective interest rate is the rate that exactly discounts estimated future cash payments
+         (including all fees and points paid or received that form an integral part of the effective interest rate, transaction costs and
+         other premiums or discounts) through the expected life of the financial liability, or (where appropriate) a shorter period, to the
+         amortised cost of a financial liability.
+
+                                                                                          20
+                                                                                                                                                                Guinness Nigeria PLC
+                                                                                                                                                   Unaudited Financial Statements
+                                                                                                                                                  For the period ended 31-03-2026
+
+   3 Summary of material accounting policies - continued
+ 3.14 Financial instruments - continued
+3.14.2 Classification as debt or equity
+  (c) Derecognition of financial liabilities
+
+         The Company derecognises financial liabilities when the obligations are discharged, cancelled or they expire. The difference
+         between the carrying amount of the financial liability derecognised and the consideration paid and payable is recognised in
+         profit or loss.
+ 3.15 Impairment
+3.15.1 Non-financial assets
+         The carrying amounts of the Company's non-financial assets are reviewed at each reporting date to determine whether there
+         is any indication of impairment. If any such indication exists, then the asset's recoverable amount is estimated.
+         For intangible assets that have indefinite useful life or that are not yet available for use, the recoverable amount is estimated
+         at each reporting date.
+         The recoverable amount of an asset or cash-generating unit is the greater of its value in use and its fair value less costs to sell.
+         In assessing value in use, the estimated future cash flows are discounted to their present value using a discount rate that
+         reflects current market assessments of the time value of money and the risks specific to the asset. An impairment loss is
+         recognised if the carrying amount of an asset or its cash generating unit exceeds its recoverable amount. Impairment losses are
+         recognised in profit or loss.
+         Impairment losses are reversed when there is an indication that the impairment loss may no longer exist and there has been a
+         change in the estimates used to determine the recoverable amount. An impairment loss is reversed only to the extent that the
+         asset's carrying amount does not exceed the carrying amount that would have been determined, net of depreciation or
+         amortisation, if no impairment loss had been recognised.
+
+                                                                                          21
+                                                                                                                                                               Guinness Nigeria PLC
+                                                                                                                                                  Unaudited Financial Statements
+                                                                                                                                                 For the period ended 31-03-2026
+
+  4 Critical accounting judgments and key sources of estimation uncertainty
+        In applying the Company's accounting policies, which are described in note 3, the directors are required to make judgements
+        (other than those involving estimations) that have a significant impact on the amounts recognised and to make estimates and
+        assumptions about the carrying amounts of assets and liabilities that are not readily apparent from other sources. The
+        estimates and associated assumptions are based on historical experience and other factors that are considered to be relevant.
+        Actual results may differ from these estimates.
+
+        The estimates and underlying assumptions are reviewed on an ongoing basis. Revisions to accounting estimates are recognised
+        in the period in which the estimate is revised if the revision affects only that period, or in the period of the revision and future
+        periods if the revision affects both current and future periods.
+        Other disclosures relating to the Company's exposure to risks and uncertainties includes:
+        · Capital Risk Management
+        · Financial instruments risk management and policies
+        · Sensitivity analyses disclosures
+        Judgements
+        In the process of applying the Company's accounting policies, management has made the following judgements, which have
+        the most significant effect on the amounts recognised in the financial statements.
+        Revenue from contracts with customers
+        The Company applied the following judgements that significantly affect the determination of the amount and timing of
+        revenue from contracts with its customer.
+        - Identifying performance obligations in a bundled sale of services
+        - Determining timing of satisfaction of performance obligation
+ 4.1 Critical judgments in applying accounting policies
+        The following are the critical judgments, apart from those involving estimations (see note 4.2 below), that the Directors have
+        made in the process of applying the Company accounting policies and that have the most significant effect on the amounts
+        recognised in the financial statements.
+
+4.1.1 Discount rate used to determine the carrying amount of the Company's defined benefit obligation
+        The Company defined benefit obligation is discounted at a rate set by reference to market yields at the end of the reporting
+        year on high quality corporate bonds. Significant judgment is required when setting the criteria for bonds to be included in the
+        population from which the yield curve is derived. The most significant criteria considered for the selection of bonds include the
+        issue size of the corporate bonds, quality of the bonds and the identification of outliers which are excluded.
+
+                                                                                          22
+                                                                                                                                                               Guinness Nigeria PLC
+                                                                                                                                                  Unaudited Financial Statements
+                                                                                                                                                 For the period ended 31-03-2026
+
+  4 Critical accounting judgments and key sources of estimation uncertainty - Continued
+
+4.1.2 Impairment loss on trade receivables
+        Management believes that there is no impairment loss on trade receivables,which are allowed a credit period of 30 days within
+        which it pays on account.
+
+4.1.3 Impairment of property, plant and equipment
+        Management assesses items of property, plant and equipment for impairment when there are indications that the assets are
+        impaired. Specifically damaged, accident and physically deteriorated assets are immediately derecognised.
+
+ 4.2 Key sources of estimation uncertainty
+        The key assumptions concerning the future, and other key sources of estimation uncertainty at the reporting date, that have a
+        significant risk of causing a material adjustment to the carrying amounts of assets and liabilities within the next financial year
+        are discussed below.
+
+4.2.1 Estimated useful life
+        The Management reviews the estimated useful life and related depreciation charge for its items of property, plant and
+        equipment on an annual basis.The Management has not highlighted any requirement for an adjustment to the residual value
+        and remaining useful life of the assets for the current or future periods.
+
+4.2.2 Write down of inventories to net realizable value
+        The Company regularly evaluates inventory to determine excess or obsolete status. To properly reflect the value of inventory,
+        any identified exposure is reflected in the allowance for excess and obsolete inventory reserve. The proper recording of
+        inventory at lower of cost or market value is necessary to fairly reflect its net realisable value.
+
+4.2.3 Fair value measurements and valuation processes
+        Some of the Company's assets and liabilities are measured at fair value for financial reporting purposes. The board of directors
+        of the Company has set up a valuation committee, which is headed up by the Chief Financial Officer of the Company, to
+        determine the appropriate valuation techniques and inputs for fair value measurements.
+
+        In estimating the fair value of an asset or a liability, the Company uses market-observable data to the extent it is available.
+        Where Level 1 inputs are not available, the Company engages third party qualified valuers to perform the valuation. The
+        valuation committee works closely with the qualified external valuers to establish the appropriate valuation techniques and
+        inputs to the model. The Chief Financial Officer reports the valuation committee's findings to the board of directors of the
+        Company every quarter to explain the cause of fluctuations in the fair value of the assets and liabilities.
+
+                                                                                          23
+                                                                     Guinness Nigeria PLC
+                                                       Unaudited Financial Statements
+                                                       For the period ended 31-03-2026
+
+Notes to the condensed financial statements            3 months ended      3 months ended
+For the period ended 31 March 2026                         Year to Date        Year to Date
+
+5 Revenue                                               31 March 2026       31 March 2025
+                                                                    N'000               N'000
+
+a. Income from sale of goods                           122,772,787         118,338,025
+
+                                                       122,772,787         118,338,025
+
+Disaggregation of revenue from contract with customer     1,876,775          1,350,775
+                                                       120,896,012         116,987,250
+Export Sales
+Domestic Sales
+
+                                                       122,772,787         118,338,025
+
+Nigeria is the Company's primary geographical segment as over 98% of the Company's revenue is earned
+from sales in Nigeria. All of the Company's revenue is derived from sale of similar products with similar risks
+and returns. Additionally, there is no identifiable component of the business with up to 10% of the total
+revenue, the absolute measure of profit or loss and its assets. Thus, further segment information has not
+been presented.
+
+b. Liabilities related to Contract with customers      31 March 2026       31 December
+   Contract liabilities                                           N'000              2025
+                                                                                    N'000
+                                                             5,966,467
+                                                                               2,722,643
+
+Contract liabilities to customers as at 31 March 2026 amounting to N5,966 million (2025: N2,743 million) is
+included in current liabilities in statement of financial position.
+
+The Company introduced the presentation of liabilities in the statement of financial position to reflect the
+requirements of IFRS 15. Contract liabilities have been reclassified from customer deposits as at 31 March
+2026 which are advance payments received from customers.
+
+6 Cost of sales                                          Year to Date        Year to Date
+                                                       31 March 2026       31 March 2025
+
+                                                                  N'000               N'000
+
+        Cost of goods sold                                79,295,160          73,813,140
+                                                          79,295,160          73,813,140
+7 Administrative Expenses
+        Administrative overheads                         Year to Date        Year to Date
+                                                       31 March 2026       31 March 2025
+
+                                                                  N'000               N'000
+
+                                                            8,116,351            7,679,034
+                                                            8,116,351           7,679,034
+
+                                                   24
+                                                                       Guinness Nigeria PLC
+                                                         Unaudited Financial Statements
+                                                         For the period ended 31-03-2026
+
+Notes to the condensed financial statements                Year to Date      Year to Date
+For the period ended 31 March 2026                       31 March 2026     31 March 2025
+8 Marketing and Distribution Expenses
+                                                                    N'000             N'000
+         Marketing                                            6,962,523         8,895,609
+        Distribution                                        11,522,585          9,984,553
+
+9 Other Income                                              18,485,108        18,880,162
+        Sale of By-Products
+                                                           Year to Date      Year to Date
+10 Personnel expenses                                    31 March 2026     31 March 2025
+        Salaries, wages and allowances
+        Contributions to defined contribution plans                 N'000             N'000
+        Other long term employee benefits                       303,509             29,233
+                                                                303,509             29,233
+
+                                                           Year to Date      Year to Date
+                                                         31 March 2026     31 March 2025
+
+                                                                    N'000             N'000
+                                                              5,415,866         5,392,972
+
+                                                                179,306           131,744
+                                                                  31,518          355,301
+                                                                                5,880,017
+                                                              5,626,690
+
+                                                     25
+                                                                                Guinness Nigeria PLC
+                                                                  Unaudited Financial Statements
+                                                                  For the period ended 31-03-2026
+
+Notes to the condensed financial statements                       3 months ended      3 months ended
+For the period ended 31 March 2026                                    Year to Date        Year to Date
+
+11 Finance expenses                                                31 March 2026       31 March 2025
+                                                                               N'000               N'000
+       Finance expense on loans and borrowings
+       Accrued Interest                                           2,406,385           5,084,960
+       Interest expense on lease liabilities                              -             995,892
+       Interest expense on employee benefits                                               5,041
+       Exchange difference on foreign currency letter of credits       5,905             46,991
+       Loss/(Gain) on remeasurement of foreign currency balances     67,592             475,877
+
+12 Finance Income                                                         -           1,168,772
+       Total interest income arising from financial assets                -
+       Accrued interest
+       Remeasurement of foreign currency balances                 2,479,882           7,777,533
+       Income from Concessional facility
+                                                                    Year to Date        Year to Date
+                                                                  31 March 2026       31 March 2025
+
+                                                                              735              20,927
+                                                                            4,213              40,426
+                                                                         936,677
+                                                                         104,450                   -
+                                                                       1,046,075                   -
+                                                                                               61,353
+
+26
+                                                                                                   Guinness Nigeria PLC
+                                                                                     Unaudited Financial Statements
+                                                                                     For the period ended 31-03-2026
+
+Notes to the condensed financial statements                                            Year to Date      Year to Date
+For the period ended 31 March 2026                                                   31 March 2026     31 March 2025
+
+13 Profit before taxation                                                                       N'000             N'000
+
+Profit before taxation is after charging/(crediting):                                3,917,229         2,938,930
+Depreciation of property, plant and equipment                                               502               502
+Depreciation of right of use assets
+Impairment loss on property, plant and equipment                                       153,407              6,569
+Amortisation of intangible assets                                                      317,498           369,776
+Personnel expenses                                                                   5,626,690         5,880,017
+Rental expense                                                                         537,075           380,687
+Royalty and technical fees                                                           2,944,756         2,950,553
+
+14 Taxation                                                    Year to Date          Year to Date        Year to Date
+                                                               31 March 2026         31 December       31 March 2025
+         i. Current Tax expense:
+       Current Income tax                                                     N'000            2025               N'000
+       Deferred Income Tax Charge                                                             N'000
+                                                                        2,059,723                             731,950
+         ii. Movement in current tax liabilities                        3,293,873       2,816,333           2,520,205
+       As at Opening                                                    5,353,596     16,751,045            3,252,155
+       Payment/debit during the period                                                19,567,378
+       Charge for the year                                              2,940,081                           1,897,503
+       Balance as at 31 March 2026                                        (528,005)     2,629,453                       -
+                                                                                       (2,505,704)
+                                                                        2,059,723       2,816,333              731,950
+                                                                        4,471,800       2,940,081          2,629,453
+
+15 Profit / (Loss) per share (Naira)
+       The earnings per share is calculated as follows :-
+
+                                                                                       Year to Date      Year to Date
+                                                                                     31 March 2026     31 March 2025
+
+                                                                                                N'000             N'000
+
+Profit / (Loss) for the year                                                         10,392,274        7,026,588
+Number of equity shares ('000)                                                        2,190,383        2,190,383
+Profit/(loss)per share (Kobo)                                                                 474
+                                                                                                              321
+
+There have been no transactions involving ordinary shares or potential ordinary shares between the reporting date and the
+date of authorisation of these financial statements.
+
+Diluted earning per share is equal to earning per share because there are no dilutive potential ordinary shares in issue.
+
+                                                           27
+Notes to the condensed financial statements                                                                                                                                                        Guinness Nigeria PLC
+For the period ended 31 March 2026                                                                                                                                                   Unaudited Financial Statements
+                                                                                                                                                                                     For the period ended 31-03-2026
+16 Property, plant and equipment
+                                             Freehold Land      Building                Plant and Furniture and          Motor Returnable Capital Work
+     a. Period ended 31 March 2026                       N'000
+                                                                             Machinery                  Fittings     Vehicles packaging              in Progress*
+        Cost or Valuation
+        Balance at 31 December 2024                                                                                                   materials                        Total
+        Additions                                                                                                                                                             N'000
+        Reclassification/ Transfers                             N'000                   N'000           N'000            N'000        N'000          N'000
+        Disposals                                                                                                                                                    191,870,645
+        Write-offs                           9,914,427          26,676,365              108,183,915     433,979          6,017,736    31,704,522     8,939,701          5,212,093
+                                                     -                   -                      2,765        -                   -     2,832,732     2,376,596                  -
+        Balance at 31 March 2025                                                                             710                 -                   (2,086,380)           (10,750)
+        Additions                               10,750           1,122,975                   951,945         -                   -             -                           (38,930)
+        Reclassification/ Transfers            (10,750)                  -                         -         -                   -             -              -
+        Disposals                                                        -                         -                                      (38,930)            -      197,033,058
+        Write-offs                                   -                                                                                                                27,097,034
+                                                                                                                                                                      18,232,164
+        Balance at 31 December 2025          9,914,427          27,799,340              109,138,625       434,689        6,017,736    34,498,324       9,229,918            10,750
+                                                     -             103,369                   115,026      319,065          271,753    12,696,000     13,591,821        (1,313,700)
+        Additions                                                                                       2,126,445           92,739     4,536,928     (13,484,157)
+        Reclassification/ Transfers           (828,428)          7,116,639               18,671,998                              -                                   241,059,305
+        Disposals                               10,750                   -                         -            -          (17,342)            -               -
+        Write-offs                             (10,750)                  -                                      -                     (1,280,247)             (945)     9,411,613
+                                                                                               (4,417)                                                                          -
+        Balance as at 31 March 2026                                                                                                                                             -
+                                             9,085,999 35,019,348 127,921,232 2,880,198 6,364,886 50,451,005 9,336,637
+        Accumulated depreciation                                                                                                                                         (442,635)
+        Balance at 31 December 2024          -                  -                       -               55,192           -            1,138,727 8,217,693
+        Depreciation expense for the year                                                                                                                            250,028,283
+        Write-offs                           -                  -                       -               -                -            3,644,717 (3,644,717)
+        Disposal during the year
+                                             -                  -                       -               -                -                       -   -
+        Balance at 31 March 2025
+        Depreciation expense for the year    -                  -                       -               -                -            (442,635)      -
+        Write-offs
+        Disposal during the year             9,085,999 35,019,348 127,921,232 2,935,390 6,364,886 54,791,814 13,909,613
+        Reclassification
+                                             (144,120)          (6,511,345)             (53,987,730)    (234,577)        (4,820,755)  (17,800,094)                   (83,498,621)
+        Balance at 31 December 2025                -              (173,745)              (1,329,429)    (243,671)          (165,788)   (1,026,297)
+        Depreciation expense for the year          -                     -                                                        -                     -            (2,938,930)
+        Write-offs                                 -                      -                       -           -                   -         32,361
+        Disposal during the year                                                                    -           -                                 -     -            32,361
+
+        Balance at 31 March 2026                                                                                                                        -            -
+
+        Carrying amount                      (144,120)          (6,685,090)             (55,317,159)      (478,248)  (4,986,543)      (18,794,030)   -               (86,405,189)
+                                                   -              (527,667)              (4,111,626)      (250,737)    (486,789)       (5,287,494)
+        At 31 March 2026                           -                     -                     4,417                     12,785         1,002,114       -            (10,664,313)
+                                                   -                     -                        -              -            -                 -
+        At 31 December 2025                                                             (16,463,497)             -      (10,395)        5,429,466       -            1,019,316
+                                              144,120           (6,248,258)                             (1,089,816)
+                                                                                                                                                        -            -
+
+                                                                                                                                                        -            (18,238,380)
+
+                                             -                  (13,461,015) (75,887,865) (1,818,801) (5,470,942) (17,649,944)                       -               (114,288,568)
+
+                                             -                  (192,503) (1,373,423)                   (94,882)         (164,743) (2,091,678)       -               (3,917,229)
+
+                                             -                  -                       -               -                -            289,228        -               289,228
+
+                                             -                  -                       -               -                -                           -               -
+
+                                             -                  (13,653,519) (77,261,288) (1,913,683) (5,635,685) (19,452,394)                       -               (117,916,569)
+
+                                             9,085,999 21,365,829                       50,659,944      1,021,707        729,201      35,339,420     13,909,613      132,111,714
+                                             9,085,999 21,558,333                       52,033,367                                    32,801,061      9,336,637      126,770,739
+                                                                                                        1,061,397        893,944
+
+                                                                                                                     28
+
+* Capital work in progress (CWIP) were reclassified to other PPE items during the year
+                                                                                                               Guinness Nigeria PLC
+                                                                                                  Unaudited Financial Statements
+                                                                                                 For the period ended 31-03-2026
+
+Notes to the condensed financial statements
+For the period ended 31 March 2026
+
+16 b. Cash paid on acquisition of property, plant and equipment in the statement of cash flows.
+
+Additions during the period                                                   Year to Date                     Year to Date
+Payments on prior year acquisitions                                        31 March 2026                    31 March 2025
+Unpaid invoices on current year acquisitions
+                                                                                      N'000                            N'000
+                                                                                9,411,613                        5,212,095
+                                                                                7,596,336                        6,586,520
+                                                                               (5,524,339)                      (3,181,556)
+                                                                              11,483,610                         8,617,058
+
+16 c. PPE disposed/written off in the statement of cash flows                 Year to Date                     Year to Date
+                                                                           31 March 2026                    31 March 2025
+
+Cost of property, plant and equipment disposed and written off                                    442,635          961,651
+Accumulated depreciation on property, plant and equipment disposed and                           (289,228)
+written off                                                                                                       (585,306)
+
+Carrying amount of Property, plant and equipment disposed and written off                        153,407           376,345
+Proceeds from disposal of property, plant and equipment                                                 -                  -
+
+Amount charged to PL is analysed as:                                                             153,407           376,345
+Carrying amount of property, plant and equipment written off
+(Gain)/loss on disposal of property, plant and equipment                                         153,407           376,345
+                                                                                                        -                  -
+
+                                                                                                 153,407           376,345
+
+                                                               29
+Notes to the condensed financial statements                    Guinness Nigeria PLC
+For the period ended 31 March 2026                Unaudited Financial Statements
+                                                 For the period ended 31-03-2026
+16 A  Intangible Assets
+                                                      Computer
+      Cost of valuation                                software
+      Balance at 31 December 2024
+      Reclassification from tangibles                      N'000
+      Additions
+      Write-offs                                        918,876
+      Balance at 31 March 2025                       6,723,240
+
+      Reclassification                                       -
+      Additions                                       (922,720)
+      Write-offs
+      Balance at 31 December 2025                     6,719,396
+                                                        323,709
+      Additions                                              -
+      Write-offs                                             -
+
+      Balance as at 31 March 2026                     7,043,104
+
+      Accumulated depreciation                                 -
+                                                               -
+      Balance at 31 December 2024
+                                                      7,043,104
+      Charge for the year
+      Write-offs                                      (514,299)
+                                                        (75,101)
+      Balance at 31 March 2025                         552,944
+      Reclassification
+      Charge for the year                               (36,456)
+      Write-offs                                      (317,498)
+      Balance at 31 December 2025                     (339,387)
+      Charge for the year
+      Write-offs                                               -
+                                                      (693,340)
+      Balance as at 31 March 2026                     (111,072)
+
+      Carrying amount                                          -
+      Balance as at 31 March 2026
+                                                      (804,412)
+      Balance at 31 December 2025
+                                                      6,238,692
+
+                                                      6,349,764
+
+                                             30
+Notes to the condensed financial statements                    Guinness Nigeria PLC
+For the period ended 31 March 2026                Unaudited Financial Statements
+                                                 For the period ended 31-03-2026
+17  Right of use assets
+                                                                    Land & Building
+    Cost of valuation                                                            N'000
+    Balance at 31 December 2024
+    Additions                                                                 139,579
+    Reclassifications/ transfers                                                   -
+    Write-off                                                                      -
+    Remeasurement                                                                  -
+    Balance at 31 March 2025                                                       -
+
+    Additions                                                                 139,579
+    Reclassifications/ transfers*                                                      -
+    Write-off                                                                          -
+    Remeasurement
+    Balance at 31 December 2025                                               139,579
+                                                                                       -
+    Additions                                                                          -
+    Reclassifications/ transfers*
+    Write-off                                                                      -
+    Remeasurement                                                                  -
+    Balance as at 31 March 2026                                               139,579
+
+    Accumulated depreciation                                                   (9,403)
+                                                                                 (502)
+    Balance at 31 December 2024                                                    -
+    Charge for the year
+    Write-off                                                                  (9,905)
+    Balance at 31 March 2025                                                   (1,506)
+    Charge for the year
+    Write-off                                                                      -
+    Balance at 31 December 2025                                               (11,411)
+    Charge for the year
+    Balance as at 31 March 2026                                                  (502)
+                                                                              (11,913)
+    Carrying amount
+    As at 31 March 2026                                                       127,666
+
+    As at 31 December 2025                                                    128,168
+
+                                             31
+Notes to the condensed financial statements                                       Guinness Nigeria PLC
+For the period ended 31 March 2026                                   Unaudited Financial Statements
+                                                                    For the period ended 31-03-2026
+17  Lease Liability
+                                                                                                146,475
+    Balance at 31 December 2024                                                                    5,041
+
+    Interest Expense on Lease                                                                    (21,436)
+    Repayment of Lease Liabilities:                                                             130,080
+
+       Repayment of the principal portion of the lease liabilities                                16,378
+    Balance at 31 March 2025                                                                          -
+
+    Interest expense on lease                                                                   146,458
+    Repayment of lease liabilities:                                                                5,905
+                                                                                                  (7,368)
+       Repayment of the principal portion of the lease liabilities
+    Balance at 31 December 2025                                                                 144,995
+
+    Interest Expense on Lease                                                                          26
+    Repayment of Lease Liabilities:                                                             144,969
+
+       Repayment of the principal portion of the lease liabilities
+    Balance as at 31 March 2026
+
+    Presented as :
+    Current
+    Non-Current
+
+                                             32
+                                                                     Guinness Nigeria PLC
+                                                        Unaudited Financial Statements
+                                                       For the period ended 31-03-2026
+
+Notes to the condensed financial statements            31 March 2026     31 December 2025
+For the period ended 31 March 2026                                N'000                  N'000
+
+18 Trade and other receivables                            24,156,548             31,331,053
+      a. Financial Assets                                    (909,569)              (895,840)
+         Third Party trade receivables                      8,032,247              6,784,561
+         Expected credit loss                                    6,669               423,427
+         Other receivables
+         Amounts due from related companies               31,285,895             37,643,201
+
+         Non Financial Assets                                 180,470                707,593
+         Other Receivables- Current                       31,466,365             38,350,794
+         Total Trade and other receivables
+
+19 Prepayment and other assets                         31 March 2026     31 December 2025
+                                                                  N'000                  N'000
+         Rent
+         Others Prepaid expenses                                77,748                105,419
+         Prepayment for raw materials                     19,097,204              19,349,495
+
+                                                            1,457,392               1,178,566
+
+                                                          20,632,344             20,633,480
+
+The advances in the year relates to payments made for the supply of raw materials and custom duties.
+
+Other prepaid expenses relate to housing and education subsidies, leave allowance and insurance. Prepaid rent
+disclosed is out of scope of IFRS16.
+
+20 Inventories                                         31 March 2026     31 December 2025
+                                                                  N'000                  N'000
+         Raw Materials and consumables
+         Work In Progress                                 23,246,408             25,159,310
+         Finished Goods                                     2,898,543               4,584,426
+         Engineering spares and other consumables           8,809,100               7,155,926
+         Goods in transit                                                           8,739,194
+                                                          10,402,219                  180,889
+                                                              611,161
+                                                                                 45,819,745
+                                                          45,967,431
+
+                                                   33
+                                                                             Guinness Nigeria PLC
+                                                                Unaudited Financial Statements
+                                                               For the period ended 31-03-2026
+
+Notes to the condensed financial statements                    31 March 2026     31 December 2025
+For the period ended 31 March 2026                                        N'000                  N'000
+
+21 Cash and cash equivalents                                        1,629,962              6,969,019
+                                                                            -                      -
+         Cash at Bank
+         Short-Term Deposit                                         1,629,962              6,969,019
+         Cash and Bank Balance
+                                                                   (1,607,122)              (523,538)
+         Bank Overdraft                                                 22,841             6,445,481
+         Cash and cash equivalents in statement of cash flows
+                                                                      150,000                155,000
+         Restricted Cash
+22 Share capital                                               31 March 2026     31 December 2025
+a. Authorised, Issued and fully paid:                                     N'000                  N'000
+
+          2,190,383,000 ordinary shares of 50k each                 1,095,191              1,095,191
+          2,190,383,000 ordinary shares of 50k each                 1,095,191              1,095,191
+
+23 Share premium                                               31 March 2026     31 December 2025
+         Share premium                                                    N'000                  N'000
+
+a. Share premium                                                  47,447,029             47,447,029
+                                                                  47,447,029             47,447,029
+
+Share premium represents the consideration received in excess of the nominal value of ordinary shares of the
+Company. All shares rank equally with regard to the Company's residual assets. The holders of ordinary shares are
+entitled to receive dividends as declared from time to time, and are entitled to one vote per share at meetings of
+the Company.
+
+b. Share-based payment reserve
+
+         The share-based payment reserve comprises the cumulative weighted average fair value of executive share option
+         and executive share award plans granted by Diageo plc to Directors and employees of the Company which have not
+         vested at year end.
+
+                        34
+                                                                                                Guinness Nigeria PLC
+                                                                                   Unaudited Financial Statements
+                                                                                  For the period ended 31-03-2026
+
+Notes to the condensed financial statements
+For the period ended 31 March 2026
+
+24 Dividend Payable                                             31 March 2026     31 December 2025       31 March 2025
+                                                                           N'000                  N'000             N'000
+       Opening Balance
+       Declared dividend                                               149,981              1,127,380         1,127,380
+       Dividend payable to Diageo                                            -                      -                 -
+       Declared, but not yet paid dividend - ICO                             -                      -                 -
+       Unclaimed dividend transferred to retained earnings
+       Unclaimed dividend with Registrar                               149,981              1,127,380         1,127,380
+       Payments during the year:
+       Paid to the Registrar                                                 -                      -                 -
+       Restricted cash                                                       -                   8,302                -
+       Cash and cash equivalents                                             -                                        -
+                                                                             -                      -                 -
+                                                                             -               (985,702)                -
+                                                                             -                                        -
+                                                                                                    -
+                                                                                                    -
+
+Closing balance                                                 149,981           149,981                           1,127,380
+
+Dividend payable is represented by                              150,000           155,000                           155,000
+Restricted cash                                                       -                 -                             45,594
+Balance with Registrar
+Closing balance                                                 150,000           155,000                           200,594
+
+The dividend funding transfer was executed on 31 March 2026 but is reflected in the bank statement on 1 April 2026
+
+25 Trade and other payables                                                       31 March 2026 31 December 2025
+
+       Financial Liabilities                                                      N'000                             N'000
+       Trade Payables
+       Due to Related Party                                                        71,716,642              82,523,624
+       Other payables and accrued expenses                                           3,164,954                 729,462
+
+       Non Financial Liabilities                                                   50,351,218              56,065,022
+       Refund Liabilities
+       Other payables and accrued expenses                                        125,232,814            139,318,108
+
+                                                                                    280,532                            280,532
+                                                                                  1,554,299                          5,516,655
+                                                                                  1,834,831                         5,797,187
+
+Total Trade and Other Payables                                                    127,067,645            145,115,295
+
+                                                            35
+                                                                                                                      Guinness Nigeria PLC
+                                                                                                         Unaudited Financial Statements
+                                                                                                        For the period ended 31-03-2026
+
+Notes to the condensed financial statements
+For the period ended 31 March 2026
+
+26 Borrowings                                                                                 31 March 2026     31 December 2025
+                                                                                                         N'000                  N'000
+      a. Loans and borrowings comprise:
+                                                                                                      -                     -
+          Related Party Loans                                                                 6,652,572             7,078,650
+          Long term Loans                                                                     1,851,852             1,296,296
+          Current maturities of long term loan                                                29,118,596            35,543,064
+          Short term loans                                                                    37,623,020            43,918,010
+
+b. Movement in loans and borrowings:                              31 March 2026     31 December 2025                31 March 2025
+                                                                             N'000                  N'000                      N'000
+   At Opening
+   Addition                                                           43,918,010            65,343,670                  59,369,684
+   Interest expense during the year                                   45,358,370           144,538,932                  10,000,000
+   Exchange difference on foreign currency letter of credits
+   Exchange difference on foreign currency intercompany loan           2,406,385            11,567,715                   6,375,959
+   Interest paid                                                               -               (478,566)                   475,877
+   Loans repaid during the year                                                -                      -                          -
+   At Closing
+                                                                      (2,905,174)           (15,059,221)                (5,084,960)
+                                                                     (51,154,572)         (161,994,520)                 (5,792,889)
+                                                                                                                         65,343,670
+                                                                       37,623,020            43,918,010
+
+27 Deferred Income                                                                            31 March 2026     31 December 2025
+                                                                                                         N'000                  N'000
+       a. Deferred government income from BOI
+          Current                                                                                    398,869                417,801
+          Non-Current                                                                                711,129                796,648
+                                                                                                    1,109,999              1,214,449
+
+28 Related party information                                  Nature of relationshiNpature of transaction
+
+          Related party relationships                         Parent company
+
+          Name of the related party                           Sister entity         Purchase of packaging material
+          N Seven Nigeria Limited
+          Green Packaging Limited                             Sister entity         Services
+          Tolaram Africa Pte Ltd
+          Celeber-8 Lyf                                       Sister entity         Sale of Goods
+          Dufil Prima Foods Ltd
+          Multipro Consumer Product                           Sister entity
+          MCPL- BHN Division
+                                                              Sister entity
+
+                                                              Sister entity         Transport services
+
+                           Name of the party                       Nature of        Transaction value           Outstanding balance
+                                                                  transaction                                      Due (to)/ from
+Green Packaging Limited                                                                    N'000                                     N'000
+Dufil Prima Foods Ltd                                         Purchases                         (1,525,843)                     (485,615)
+Multipro Consumer Product                                     Purchases                           (229,939)                     (135,683)
+MCPL- BHN Division                                            Purchases                             (13,639)                        6,669
+Green Packaging Limited LFZ                                   Services                          (3,011,255)                     (383,819)
+                                                              Services                          (2,560,000)                   (2,159,837)
+
+29 Events after the reporting period
+
+          There are no significant subsequent events which could have had material impact on the state of affairs of the Company as at 31 March
+          2026 that has not been adequately provided for or disclosed in the financial statements.
+
+                                                              36
+                                                                                                                    Guinness Nigeria PLC
+                                                                                                       Unaudited Financial Statements
+                                                                                                      For the period ended 31-03-2026
+
+Shareholding Structure/Free Float Status                                                              31 March 2026
+
+                                                     Description                                Unit           Percentage
+Issued Share Capital
+Substantial Shareholdings (5% and above)                                                        2,190,382,819        100%
+NSEVEN Nigeria Limited- MAIN
+Stanbic IBTC Nominees Nigeria LTD/C026-MAIN                                                     1,552,042,799        70.86%
+Total Substantial Shareholdings                                                                   139,370,907         6.36%
+Directors' Shareholdings (direct and indirect), excluding directors with substantial interests
+Bola Adesola (direct)                                                                           1,691,413,706        77.22%
+Total Directors' Shareholdings
+Other Influential Shareholdings                                                                       1,250          0.00%
+                                                                                                      1,250          0.00%
+
+Total Other Influential Shareholdings                                                                 0.00%          0.00%
+Free Float in Units and Percentage
+Free Float in Value                                                                                   498,967,863 22.78%
+
+                                                                                                       211,163,199,621.60
+
+Declaration:
+(A) Guinness Nigeria Plc with a free float percentage of 22.78% as at 31 March 2026, is compliant with The Exchange's free float
+requirements for companies listed on the Main Board.
+
+(B) Guinness Nigeria Plc with a free float value of N211,163,199,621.60 as at 31 March 2026, is compliant with The Exchange's
+free float requirements for companies listed on the Main Board.
+
+                                       37
+

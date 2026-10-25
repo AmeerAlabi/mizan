@@ -1,0 +1,425 @@
+{
+  "_about": "Figures extracted from audited FY2025 financial statements published on the Nigerian Exchange document library. Amounts in NGN millions unless stated. 'page' is the PDF page. 'check' says how the figure was verified: 'text' = found on that page's text layer by scripts/ngx-verify.ts; 'image+text' = read from a scanned page image and cross-checked against the same figure in the notes text.",
+  "companies": [
+    {
+      "ticker": "DANGCEM",
+      "name": "Dangote Cement Plc",
+      "sector": "Cement and building materials",
+      "currency": "NGN",
+      "unit": 1000000,
+      "periodEnd": "2025-12-31",
+      "filing": {
+        "title": "Dangote Cement Plc 2025 audited financial statements",
+        "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/DANGOTE_CEMENT_PLC_-_2025_AUDITED_FINANCIAL_STATEMENTS.pdf",
+        "file": "DANGCEM-2025-AFS.pdf",
+        "approved": "2026-02-26"
+      },
+      "facts": [
+        {
+          "metric": "totalAssets",
+          "value": 6040727,
+          "page": 23,
+          "line": "Total assets 6,040,727 (Group, 31/12/2025)",
+          "check": "image+text"
+        },
+        {
+          "metric": "interestBearingDebt",
+          "value": 1115473,
+          "page": 70,
+          "line": "Total loans and borrowings 1,080,490 + overdraft balances 34,983 (Note 26, Group 2025)",
+          "components": [
+            {
+              "label": "Total loans and borrowings",
+              "value": 1080490
+            },
+            {
+              "label": "Overdraft balances",
+              "value": 34983
+            }
+          ],
+          "check": "text"
+        },
+        {
+          "metric": "cash",
+          "value": 397569,
+          "page": 23,
+          "line": "Cash and cash equivalents 397,569 (Group, 31/12/2025)",
+          "check": "image+text"
+        },
+        {
+          "metric": "receivables",
+          "value": 147472,
+          "page": 23,
+          "line": "Trade and other receivables 147,472 (Group, 31/12/2025)",
+          "check": "image+text"
+        },
+        {
+          "metric": "totalRevenue",
+          "value": 4306704,
+          "page": 21,
+          "line": "Revenue 4,306,704 (Group, year ended 31/12/2025)",
+          "check": "text"
+        },
+        {
+          "metric": "interestIncome",
+          "value": 82144,
+          "page": 53,
+          "line": "10.1 Finance income: Interest income 82,144 (Group 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "sharesOutstanding",
+          "value": 16752154537,
+          "unitOverride": 1,
+          "page": 7,
+          "line": "Total number of residual issued and fully paid outstanding shares 16,752,154,537",
+          "check": "text"
+        }
+      ],
+      "activity": {
+        "page": 27,
+        "quote": "The principal activity of the Company and its subsidiaries (together referred to as \"the Group\") is to operate plants for the preparation, manufacture and distribution of cement and related products"
+      }
+    },
+    {
+      "ticker": "MTNN",
+      "name": "MTN Nigeria Communications Plc",
+      "sector": "Telecommunications",
+      "currency": "NGN",
+      "unit": 1000000,
+      "periodEnd": "2025-12-31",
+      "filing": {
+        "title": "MTN Nigeria 2025 audited consolidated and separate financial statements",
+        "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/MTN_Nigeria_-_2025_AFS.pdf",
+        "file": "MTNN-2025-AFS.pdf",
+        "approved": "2026-02-25"
+      },
+      "facts": [
+        {
+          "metric": "totalAssets",
+          "value": 5403489,
+          "page": 66,
+          "line": "Total assets 5,403,489 (Group, 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "interestBearingDebt",
+          "value": 2913898,
+          "page": 66,
+          "line": "Borrowings 419,572 (non-current) + 108,097 (current) + lease liabilities 2,117,047 (non-current) + 269,182 (current); IFRS 16 lease liabilities carry interest and are included, conservatively",
+          "components": [
+            {
+              "label": "Borrowings, non-current (note 35.1)",
+              "value": 419572
+            },
+            {
+              "label": "Borrowings, current (note 35.1)",
+              "value": 108097
+            },
+            {
+              "label": "Lease liabilities, non-current (note 19.2)",
+              "value": 2117047
+            },
+            {
+              "label": "Lease liabilities, current (note 19.2)",
+              "value": 269182
+            }
+          ],
+          "check": "text"
+        },
+        {
+          "metric": "cash",
+          "value": 632501,
+          "page": 66,
+          "line": "Cash and cash equivalents 632,501 (Group, 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "interestBearingSecurities",
+          "value": 162255,
+          "page": 66,
+          "line": "Current investments 162,255 (Group, 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "receivables",
+          "value": 397029,
+          "page": 66,
+          "line": "Trade and other receivables 397,029 (Group, 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "totalRevenue",
+          "value": 5202957,
+          "page": 64,
+          "line": "Revenue 5,202,957 (Group, year ended 31 December 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "interestIncome",
+          "value": 51158,
+          "page": 92,
+          "line": "Total finance income 51,158 (Group 2025), almost entirely interest income",
+          "check": "text"
+        },
+        {
+          "metric": "sharesOutstanding",
+          "value": 20995560103,
+          "unitOverride": 1,
+          "page": 6,
+          "line": "20,995,560,103 ordinary shares of 2 kobo each",
+          "check": "text"
+        }
+      ],
+      "activity": {
+        "page": 5,
+        "quote": "to undertake the business of building and operating GSM Cellular Network Systems and provide related services across Nigeria"
+      }
+    },
+    {
+      "ticker": "NESTLE",
+      "name": "Nestle Nigeria Plc",
+      "sector": "Food and beverages",
+      "currency": "NGN",
+      "unit": 1000,
+      "periodEnd": "2025-12-31",
+      "filing": {
+        "title": "Nestle Nigeria Plc 2025 Annual Report (audited financial statements)",
+        "url": "https://greenwichregistrars.com/wp-content/uploads/2026/05/Nestle-Nigeria-PLC-2025-Annual-Report.pdf",
+        "file": "NESTLE-2025-AR.pdf",
+        "approved": "2026-02-23"
+      },
+      "facts": [
+        {
+          "metric": "totalAssets",
+          "value": 846159936,
+          "page": 56,
+          "line": "Total assets 846,159,936 (NGN thousands, 31 December 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "interestBearingDebt",
+          "value": 476294081,
+          "page": 56,
+          "line": "Interest bearing loans and borrowings 452,261,251 (non-current) + 23,781,227 (current) + bank overdraft 164,709 + lease liabilities 86,894",
+          "components": [
+            {
+              "label": "Interest bearing loans and borrowings, non-current (note 23)",
+              "value": 452261251
+            },
+            {
+              "label": "Interest bearing loans and borrowings, current (note 23)",
+              "value": 23781227
+            },
+            {
+              "label": "Bank overdraft (note 21)",
+              "value": 164709
+            },
+            {
+              "label": "Lease liabilities (note 28)",
+              "value": 86894
+            }
+          ],
+          "check": "text"
+        },
+        {
+          "metric": "cash",
+          "value": 35422361,
+          "page": 56,
+          "line": "Cash and short term-deposit 35,422,361",
+          "check": "text"
+        },
+        {
+          "metric": "receivables",
+          "value": 22248810,
+          "page": 56,
+          "line": "Trade and other receivables 22,248,810",
+          "check": "text"
+        },
+        {
+          "metric": "totalRevenue",
+          "value": 1207773081,
+          "page": 55,
+          "line": "Revenue 1,207,773,081 (year ended 31 December 2025)",
+          "check": "text"
+        },
+        {
+          "metric": "interestIncome",
+          "value": 42425284,
+          "page": 55,
+          "line": "Finance income 42,425,284 (note 10)",
+          "check": "text"
+        },
+        {
+          "metric": "sharesOutstanding",
+          "value": 792656,
+          "unitOverride": 1000,
+          "page": 92,
+          "line": "Weighted average number of ordinary shares 792,656 thousand (50 kobo each)",
+          "check": "text"
+        }
+      ],
+      "activity": {
+        "page": 62,
+        "quote": "The principal activities of the Company continue to be the manufacturing, marketing and distribution of food products including purified water throughout the country"
+      }
+    },
+    {
+      "ticker": "BUAFOODS",
+      "name": "BUA Foods Plc",
+      "sector": "Food processing (sugar, flour, pasta, rice, edible oil)",
+      "currency": "NGN",
+      "unit": 1000,
+      "periodEnd": "2025-12-31",
+      "filing": {
+        "title": "BUA Foods Plc annual report and audited financial statements 2025",
+        "url": "https://www.buafoodsplc.com/wp-content/uploads/2026/05/FINANCIAL_STATEMENT_FOR_2025_FINANCIAL_STATEMENTS.pdf",
+        "file": "BUAFOODS-2025-AFS.pdf",
+        "approved": "2026-03-26"
+      },
+      "activity": {
+        "page": 5,
+        "quote": "The principal activities of the Group are processing, manufacturing, production and distribution of food materials such as sugar, flour,"
+      },
+      "facts": [
+        {
+          "metric": "totalAssets",
+          "value": 1387793769,
+          "page": 24,
+          "line": "Total assets 1,387,793,769 (Group, NGN thousands)",
+          "check": "image+text"
+        },
+        {
+          "metric": "interestBearingDebt",
+          "value": 391799476,
+          "page": 24,
+          "line": "Borrowings 40,144 (non-current) + 365,944,579 (current) + bank overdraft 25,702,364 + lease liabilities 95,663 + 16,726",
+          "components": [
+            {
+              "label": "Borrowings, non-current (note 18a)",
+              "value": 40144
+            },
+            {
+              "label": "Borrowings, current (note 18a)",
+              "value": 365944579
+            },
+            {
+              "label": "Bank overdraft (note 17)",
+              "value": 25702364
+            },
+            {
+              "label": "Lease liabilities, non-current (note 14b)",
+              "value": 95663
+            },
+            {
+              "label": "Lease liabilities, current (note 14b)",
+              "value": 16726
+            }
+          ],
+          "check": "image+text"
+        },
+        {
+          "metric": "cash",
+          "value": 56364120,
+          "page": 24,
+          "line": "Cash and balances with banks 56,364,120",
+          "check": "image+text"
+        },
+        {
+          "metric": "receivables",
+          "value": 855641675,
+          "page": 24,
+          "line": "Trade receivables and other assets 101,889,303 + due from related parties 753,752,372 (counted as receivables, conservatively)",
+          "components": [
+            {
+              "label": "Trade receivables and other assets (note 16)",
+              "value": 101889303
+            },
+            {
+              "label": "Due from related parties (note 24b)",
+              "value": 753752372
+            }
+          ],
+          "check": "image+text"
+        },
+        {
+          "metric": "totalRevenue",
+          "value": 1774634967,
+          "page": 23,
+          "line": "Revenue from contracts with customers 1,774,634,967",
+          "check": "image+text"
+        },
+        {
+          "metric": "interestIncome",
+          "value": 11861000,
+          "page": 23,
+          "line": "Finance income 11,861,000 (note 11)",
+          "check": "image+text"
+        },
+        {
+          "metric": "sharesOutstanding",
+          "value": 18000000,
+          "unitOverride": 1000,
+          "page": 61,
+          "line": "Weighted average number of ordinary shares in issue 18,000,000 thousand",
+          "check": "text"
+        }
+      ]
+    },
+    {
+      "ticker": "GUINNESS",
+      "name": "Guinness Nigeria Plc",
+      "sector": "Brewing (beer, spirits)",
+      "currency": "NGN",
+      "unit": 1000,
+      "periodEnd": "2026-03-31",
+      "filing": {
+        "title": "Guinness Nigeria Plc unaudited financial statements, quarter 1, 2026",
+        "url": "https://doclib.ngxgroup.com/Financial_NewsDocs/46652_GUINNESS_NIG_PLC-_QUARTER_1_-_FINANCIAL_STATEMENT_FOR_2026_FINANCIAL_STATEMENTS_APRIL_2026.pdf",
+        "file": "GUINNESS-2026-Q1.pdf"
+      },
+      "activity": {
+        "page": 7,
+        "quote": "The principal activities of the Company are to carry on the business of brewing, packaging, marketing and selling of Guinness"
+      },
+      "facts": []
+    },
+    {
+      "ticker": "ACCESSCORP",
+      "name": "Access Holdings Plc",
+      "sector": "Banking and financial services",
+      "currency": "NGN",
+      "unit": 1000000,
+      "periodEnd": "2025-09-30",
+      "filing": {
+        "title": "Access Holdings Plc consolidated and separate interim financial statements, 30 September 2025",
+        "url": "https://theaccesscorporation.com/wp-content/uploads/2025/10/ACCESS-HOLDINGS-PLC-FINANCIAL-STATEMENTS-30-SEPTEMBER-2025.pdf",
+        "file": "ACCESSCORP-2025-Q3.pdf",
+        "approved": "2025-10-28"
+      },
+      "activity": {
+        "page": 11,
+        "quote": "business segments include banking, consumer lending, payment services, insurance brokerage and pension funds administration"
+      },
+      "facts": [
+        {
+          "metric": "interestIncome",
+          "value": 2904220,
+          "page": 4,
+          "line": "Interest income calculated using effective interest rate 2,744,815 + interest income on financial assets at FVTPL 159,405 (nine months to 30 September 2025)",
+          "components": [
+            {
+              "label": "Interest income (effective interest rate)",
+              "value": 2744815
+            },
+            {
+              "label": "Interest income on financial assets at FVTPL",
+              "value": 159405
+            }
+          ],
+          "check": "text"
+        }
+      ]
+    }
+  ]
+}
