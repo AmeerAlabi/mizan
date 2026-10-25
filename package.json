@@ -1,0 +1,34 @@
+{
+  "name": "mizan",
+  "version": "0.1.0",
+  "description": "Agents that check whether a stock is Shariah-compliant and show the evidence for every verdict.",
+  "private": true,
+  "license": "Apache-2.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "setup": "npm run setup:hmem && npm run setup:conformance",
+    "setup:hmem": "npx --yes degit --force meterless/meterless/engines/hmem/reference vendor/hmem && cd vendor/hmem && npm install --no-audit --no-fund",
+    "setup:conformance": "npx --yes degit --force meterless/meterless/engines/hmem/conformance vendor/hmem-conformance",
+    "ingest": "tsx scripts/ingest.ts",
+    "screen": "tsx scripts/screen.ts",
+    "conformance": "tsx scripts/conformance.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "check": "tsx scripts/check.ts",
+    "sql": "tsx scripts/sql.ts",
+    "zetaris:setup": "tsx scripts/zetaris-setup.ts",
+    "models": "tsx scripts/models.ts",
+    "dev": "tsx src/server.ts",
+    "ngx:verify": "tsx scripts/ngx-verify.ts",
+    "ngx:load": "tsx scripts/ngx-load.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.9"
+  }
+}

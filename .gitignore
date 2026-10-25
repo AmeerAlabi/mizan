@@ -1,0 +1,7 @@
+node_modules/
+vendor/
+.env
+.env.local
+.hmem/
+data/cache/
+*.log
