@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mizan · Shariah screening with evidence</title>
+  <link rel="icon" href="/mark.svg">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="/" aria-label="Mizan home">
+      <img src="/mark.svg" alt="" width="36" height="36">
+      <span><strong>Mizan</strong><small>Shariah screening agents that show their evidence</small></span>
+    </a>
+    <div class="layers" id="layers" aria-label="Connected layers">
+      <span class="pill" data-layer="zetaris"><i></i>Zetaris</span>
+      <span class="pill" data-layer="meterless"><i></i>Meterless Nightshift</span>
+      <span class="pill" data-layer="hmem"><i></i>H-MEM</span>
+    </div>
+  </header>
+
+  <section class="hero" id="hero">
+    <h1>Is this stock halal? <em>See the evidence.</em></h1>
+    <p class="lede">Mizan's agents read the company's filings (SEC EDGAR for US stocks, audited reports for the Nigerian Exchange) through Zetaris, check each other's work, and give you an AAOIFI and MSCI verdict where every number links to its source.</p>
+    <form id="search" class="search" autocomplete="off">
+      <label class="sr" for="ticker">Stock ticker (US or Nigerian Exchange)</label>
+      <input id="ticker" name="ticker" placeholder="Enter a ticker, e.g. AAPL or DANGCEM" maxlength="12" spellcheck="false" required>
+      <button type="submit" id="go">Screen</button>
+    </form>
+    <div class="chips" id="examples">
+      <span class="muted">Try:</span>
+      <button data-t="AAPL">AAPL <span>tech</span></button>
+      <button data-t="JPM">JPM <span>bank</span></button>
+      <button data-t="STZ">STZ <span>beverages</span></button>
+      <button data-t="MAR">MAR <span>hotels</span></button>
+      <button data-t="TSLA">TSLA <span>autos</span></button>
+    </div>
+    <div class="chips" id="examples-ngx">
+      <span class="muted">Nigerian Exchange:</span>
+      <button data-t="DANGCEM">DANGCEM <span>cement</span></button>
+      <button data-t="MTNN">MTNN <span>telecoms</span></button>
+      <button data-t="NESTLE">NESTLE <span>food</span></button>
+      <button data-t="BUAFOODS">BUAFOODS <span>food</span></button>
+      <button data-t="GUINNESS">GUINNESS <span>brewer</span></button>
+      <button data-t="ACCESSCORP">ACCESSCORP <span>bank</span></button>
+    </div>
+    <div class="recent" id="recent" hidden>
+      <h2>Recent screens</h2>
+      <ul id="recent-list"></ul>
+    </div>
+  </section>
+
+  <main class="run" id="run" hidden>
+    <section class="panel timeline" aria-labelledby="tl-title">
+      <div class="panel-head">
+        <h2 id="tl-title">Agents at work</h2>
+        <span class="status" id="run-status">starting…</span>
+      </div>
+      <ol id="events" class="events" aria-live="polite"></ol>
+    </section>
+
+    <section class="panel verdict" aria-labelledby="v-title">
+      <div class="panel-head">
+        <h2 id="v-title">Verdict</h2>
+        <span class="muted" id="company-line"></span>
+      </div>
+      <div id="verdict-body" class="verdict-body">
+        <div class="waiting">
+          <div class="spinner" aria-hidden="true"></div>
+          <p>The planner, researcher, activity analyst and evaluator are working. Results appear here once the evaluator approves the evidence.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <aside class="drawer" id="drawer" aria-hidden="true" aria-labelledby="d-title">
+    <div class="drawer-inner">
+      <button class="close" id="drawer-close" aria-label="Close evidence">×</button>
+      <p class="eyebrow">Evidence <span id="d-id"></span></p>
+      <h3 id="d-title"></h3>
+      <dl class="meta" id="d-meta"></dl>
+      <h4>Audit trail <small class="muted">Meterless H-MEM trust ledger</small></h4>
+      <ol class="ledger" id="d-ledger"></ol>
+    </div>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <footer class="foot">
+    Mizan gives a screening result, not a fatwa. Data: SEC EDGAR via Zetaris · Reasoning: NVIDIA Nemotron via Meterless Nightshift · Memory: Meterless H-MEM.
+  </footer>
+  <script src="/app.js" type="module"></script>
+</body>
+</html>

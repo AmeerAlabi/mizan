@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#14523F"/>
+      <stop offset="100%" stop-color="#0A2E23"/>
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <!-- agent links: top node to each pan -->
+  <g stroke="#D9A84E" stroke-width="2" stroke-dasharray="4 6" opacity="0.55" fill="none">
+    <line x1="256" y1="132" x2="150" y2="200"/>
+    <line x1="256" y1="132" x2="362" y2="200"/>
+    <path d="M150 300 Q256 360 362 300"/>
+  </g>
+
+  <!-- post and base -->
+  <line x1="256" y1="146" x2="256" y2="334" stroke="#D9A84E" stroke-width="10" stroke-linecap="round"/>
+  <rect x="196" y="330" width="120" height="14" rx="7" fill="#D9A84E"/>
+
+  <!-- beam -->
+  <line x1="150" y1="200" x2="362" y2="200" stroke="#F3E9D2" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- strings -->
+  <g stroke="#F3E9D2" stroke-width="3" stroke-linecap="round">
+    <line x1="150" y1="200" x2="112" y2="278"/>
+    <line x1="150" y1="200" x2="188" y2="278"/>
+    <line x1="362" y1="200" x2="324" y2="278"/>
+    <line x1="362" y1="200" x2="400" y2="278"/>
+  </g>
+
+  <!-- pans -->
+  <path d="M102 278 Q150 326 198 278 Z" fill="#D9A84E"/>
+  <path d="M314 278 Q362 326 410 278 Z" fill="#D9A84E"/>
+
+  <!-- nodes -->
+  <circle cx="256" cy="132" r="16" fill="#D9A84E"/>
+  <circle cx="256" cy="132" r="6" fill="#0A2E23"/>
+  <circle cx="150" cy="200" r="11" fill="#F3E9D2"/>
+  <circle cx="362" cy="200" r="11" fill="#F3E9D2"/>
+
+  <!-- wordmark -->
+  <text x="256" y="408" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="46" letter-spacing="12" fill="#F3E9D2">MIZAN</text>
+  <text x="256" y="436" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="400" font-size="13" letter-spacing="5" fill="#D9A84E">EVIDENCE · BALANCE · TRUST</text>
+</svg>
