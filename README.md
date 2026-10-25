@@ -75,4 +75,4 @@ Needs Node 20+, a Zetaris instance and Meterless Nightshift with an NVIDIA key. 
 - **[Full details](docs/DETAILS.md):** the agents, the screening method, Nigerian data preparation, reliability design, limitations and roadmap.
 - **[Technical PRD](docs/TECHNICAL-PRD.md)**
 
-*Mizan gives a screening result, not a fatwa. All code was written during the build window (22–27 October 2026); the Meterless H-MEM engine (Apache 2.0) is vendored at setup.*
+*Mizan gives a screening result, not a fatwa. the Meterless H-MEM engine (Apache 2.0) is vendored at setup.*
