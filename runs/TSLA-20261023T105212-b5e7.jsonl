@@ -1,0 +1,3 @@
+{"runId":"TSLA-20261023T105212-b5e7","seq":1,"ts":"2026-10-23T10:52:12.795Z","round":0,"agent":"orchestrator","type":"start","summary":"Screening TSLA"}
+{"runId":"TSLA-20261023T105212-b5e7","seq":2,"ts":"2026-10-23T10:52:23.614Z","round":0,"agent":"planner","type":"error","summary":"Model call failed (Meterless runtime error HTTP 502: {\"error\":{\"message\":\"failed\",\"type\":\"api_error); retrying in 4s"}
+{"runId":"TSLA-20261023T105212-b5e7","seq":3,"ts":"2026-10-23T10:52:38.054Z","round":0,"agent":"planner","type":"error","summary":"Model call failed (Meterless runtime error HTTP 502: {\"error\":{\"message\":\"failed\",\"type\":\"api_error); retrying in 12s"}

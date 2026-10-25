@@ -1,0 +1,203 @@
+{
+  "runId": "STZ-20261023T095516-c900",
+  "ticker": "STZ",
+  "company": "CONSTELLATION BRANDS, INC.",
+  "cik": "0000016918",
+  "industry": "2080 Beverages",
+  "rounds": 2,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-55"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": 10533800000,
+          "denominator": null,
+          "evidenceIds": [
+            "mem-53"
+          ],
+          "missing": [
+            "marketCap"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": 96600000,
+          "denominator": null,
+          "evidenceIds": [
+            "mem-51"
+          ],
+          "missing": [
+            "interestBearingSecurities",
+            "marketCap"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": 9139000000,
+          "evidenceIds": [
+            "mem-58",
+            "mem-52"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Interest-bearing debt / market cap: missing marketCap",
+        "Interest-bearing cash and securities / market cap: missing interestBearingSecurities, marketCap"
+      ],
+      "purificationRate": 0.9
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-55"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "FAIL",
+          "ratio": 0.4764549702153451,
+          "limit": 0.3333333333333333,
+          "numerator": 10533800000,
+          "denominator": 22108700000,
+          "evidenceIds": [
+            "mem-53",
+            "mem-46"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.004369320674666534,
+          "limit": 0.3333333333333333,
+          "numerator": 96600000,
+          "denominator": 22108700000,
+          "evidenceIds": [
+            "mem-51",
+            "mem-46"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.004369320674666534,
+          "limit": 0.3333333333333333,
+          "numerator": 96600000,
+          "denominator": 22108700000,
+          "evidenceIds": [
+            "mem-51",
+            "mem-46"
+          ],
+          "missing": [
+            "interestBearingSecurities",
+            "receivables"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": 9139000000,
+          "evidenceIds": [
+            "mem-58",
+            "mem-52"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Total debt / total assets: 47.65% is at or above the 33.33% limit"
+      ],
+      "purificationRate": 0.9
+    }
+  ],
+  "purificationRate": 0.9,
+  "narrative": {
+    "headline": "CONSTELLATION BRANDS, INC.: AAOIFI: non compliant, MSCI: non compliant",
+    "explanation": "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit. Interest-bearing debt / market cap: missing marketCap. Interest-bearing cash and securities / market cap: missing interestBearingSecurities, marketCap. Purification rate: 90.00%. This is a screening result, not a fatwa.",
+    "key_points": [
+      {
+        "text": "Revenue from non-compliant activities: 90.00% (limit 5.00%) FAIL",
+        "evidence": [
+          "mem-55"
+        ]
+      },
+      {
+        "text": "Interest-bearing debt / market cap: n/a (limit 30.00%) MISSING",
+        "evidence": [
+          "mem-53"
+        ]
+      },
+      {
+        "text": "Interest-bearing cash and securities / market cap: n/a (limit 30.00%) MISSING",
+        "evidence": [
+          "mem-51"
+        ]
+      },
+      {
+        "text": "Non-compliant income / total revenue: 0.00% (limit 5.00%) PASS",
+        "evidence": [
+          "mem-58",
+          "mem-52"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T09:55:16.261Z",
+  "finishedAt": "2026-10-23T10:02:28.932Z"
+}

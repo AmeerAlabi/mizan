@@ -1,0 +1,203 @@
+{
+  "runId": "JPM-20261023T153751-65c2",
+  "ticker": "JPM",
+  "company": "JPMORGAN CHASE & CO",
+  "cik": "0000019617",
+  "industry": "6021 National Commercial Banks",
+  "rounds": 2,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-132"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": null,
+          "denominator": 884112728457,
+          "evidenceIds": [
+            "mem-126"
+          ],
+          "missing": [
+            "interestBearingDebt"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": null,
+          "denominator": 884112728457,
+          "evidenceIds": [
+            "mem-126"
+          ],
+          "missing": [
+            "cash",
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "FAIL",
+          "ratio": 0.1536446200814483,
+          "limit": 0.05,
+          "numerator": 28032000000,
+          "denominator": 182447000000,
+          "evidenceIds": [
+            "mem-130",
+            "mem-129"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Interest-bearing debt / market cap: missing interestBearingDebt",
+        "Interest-bearing cash and securities / market cap: missing cash, interestBearingSecurities",
+        "Non-compliant income / total revenue: 15.36% is at or above the 5.00% limit"
+      ],
+      "purificationRate": 1
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-132"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": 5015069000000,
+          "evidenceIds": [
+            "mem-127"
+          ],
+          "missing": [
+            "interestBearingDebt"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": 5015069000000,
+          "evidenceIds": [
+            "mem-127"
+          ],
+          "missing": [
+            "cash",
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": 5015069000000,
+          "evidenceIds": [
+            "mem-127"
+          ],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "receivables"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "FAIL",
+          "ratio": 0.1536446200814483,
+          "limit": 0.05,
+          "numerator": 28032000000,
+          "denominator": 182447000000,
+          "evidenceIds": [
+            "mem-130",
+            "mem-129"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Total debt / total assets: missing interestBearingDebt",
+        "Cash and interest-bearing securities / total assets: missing cash, interestBearingSecurities",
+        "Receivables, cash and securities / total assets: missing cash, interestBearingSecurities, receivables",
+        "Non-compliant income / total revenue: 15.36% is at or above the 5.00% limit"
+      ],
+      "purificationRate": 1
+    }
+  ],
+  "purificationRate": 1,
+  "narrative": {
+    "headline": "JPMorgan Chase non-compliant: majority non‑Shariah revenue",
+    "explanation": "The Shariah screening result for JPMorgan Chase is NON‑COMPLIANT. The main reason is that approximately 90% of its revenue comes from non‑compliant activities, specifically interest‑based banking and lending, which far exceeds the 5% limit set by AAOIFI Standard 21 and the MSCI Islamic Index. Key financial ratios such as debt‑to‑assets and cash‑to‑assets are reported as unavailable (n/a), creating uncertainty about other compliance dimensions. If dividends are received, the purification rate is 100%.",
+    "key_points": [
+      {
+        "text": "Non-compliant revenue share 90.0% exceeds 5.0% limit",
+        "evidence": [
+          "mem-132"
+        ]
+      },
+      {
+        "text": "Company flagged as conventional interest‑based banking",
+        "evidence": [
+          "mem-123",
+          "mem-131"
+        ]
+      },
+      {
+        "text": "Interest‑bearing debt and cash ratios not available (n/a)",
+        "evidence": [
+          "mem-126",
+          "mem-127"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T15:37:51.582Z",
+  "finishedAt": "2026-10-23T15:44:05.950Z"
+}

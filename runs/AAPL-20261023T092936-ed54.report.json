@@ -1,0 +1,173 @@
+{
+  "runId": "AAPL-20261023T092936-ed54",
+  "ticker": "AAPL",
+  "company": "Apple Inc.",
+  "cik": "0000320193",
+  "industry": "3571 Electronic Computers",
+  "rounds": 3,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "NEEDS_REVIEW",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "MISSING",
+        "ratio": null,
+        "evidenceIds": [],
+        "missing": [
+          "nonCompliantRevenueShare"
+        ]
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.01620370665658145,
+          "limit": 0.3,
+          "numerator": 82347000000,
+          "denominator": 5081985359600,
+          "evidenceIds": [
+            "mem-13",
+            "mem-4"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.012278469059759626,
+          "limit": 0.3,
+          "numerator": 62399000000,
+          "denominator": 5081985359600,
+          "evidenceIds": [
+            "mem-9",
+            "mem-10",
+            "mem-4"
+          ],
+          "missing": []
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": 416161000000,
+          "evidenceIds": [
+            "mem-16",
+            "mem-12"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: missing nonCompliantRevenueShare"
+      ],
+      "purificationRate": 0
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NEEDS_REVIEW",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "MISSING",
+        "ratio": null,
+        "evidenceIds": [],
+        "missing": [
+          "nonCompliantRevenueShare"
+        ]
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "PASS",
+          "ratio": 0.21485600079318282,
+          "limit": 0.3333333333333333,
+          "numerator": 82347000000,
+          "denominator": 383266000000,
+          "evidenceIds": [
+            "mem-13",
+            "mem-5"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.16280859768411496,
+          "limit": 0.3333333333333333,
+          "numerator": 62399000000,
+          "denominator": 383266000000,
+          "evidenceIds": [
+            "mem-9",
+            "mem-10",
+            "mem-5"
+          ],
+          "missing": []
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.2447308135863865,
+          "limit": 0.3333333333333333,
+          "numerator": 93797000000,
+          "denominator": 383266000000,
+          "evidenceIds": [
+            "mem-9",
+            "mem-10",
+            "mem-11",
+            "mem-5"
+          ],
+          "missing": []
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": 416161000000,
+          "evidenceIds": [
+            "mem-16",
+            "mem-12"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: missing nonCompliantRevenueShare"
+      ],
+      "purificationRate": 0
+    }
+  ],
+  "purificationRate": 0,
+  "narrative": null,
+  "escalation": null,
+  "unresolved": [
+    {
+      "metric": "nonCompliantRevenueShare",
+      "kind": "activity",
+      "problem": "Business activity has not been assessed",
+      "evidenceIds": []
+    }
+  ],
+  "startedAt": "2026-10-23T09:29:36.364Z",
+  "finishedAt": "2026-10-23T09:33:32.461Z"
+}

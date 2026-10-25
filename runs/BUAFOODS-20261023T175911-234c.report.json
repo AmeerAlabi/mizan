@@ -1,0 +1,208 @@
+{
+  "runId": "BUAFOODS-20261023T175911-234c",
+  "ticker": "BUAFOODS",
+  "market": "NGX",
+  "currency": "NGN",
+  "company": "BUA Foods Plc",
+  "cik": "NGX:BUAFOODS",
+  "industry": "NGX · Food processing (sugar, flour, pasta, rice, edible oil)",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-228"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.028617719636544248,
+          "limit": 0.3,
+          "numerator": 391799476000,
+          "denominator": 13690800000000,
+          "evidenceIds": [
+            "mem-220",
+            "mem-227"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.0041169339994740995,
+          "limit": 0.3,
+          "numerator": 56364120000,
+          "denominator": 13690800000000,
+          "evidenceIds": [
+            "mem-221",
+            "mem-227"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.006683628025233203,
+          "limit": 0.05,
+          "numerator": 11861000000,
+          "denominator": 1774634967000,
+          "evidenceIds": [
+            "mem-224",
+            "mem-223"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.006683628025233203
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-228"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "PASS",
+          "ratio": 0.2823182267797025,
+          "limit": 0.3333333333333333,
+          "numerator": 391799476000,
+          "denominator": 1387793769000,
+          "evidenceIds": [
+            "mem-220",
+            "mem-219"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.040614190133318,
+          "limit": 0.3333333333333333,
+          "numerator": 56364120000,
+          "denominator": 1387793769000,
+          "evidenceIds": [
+            "mem-221",
+            "mem-219"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "FAIL",
+          "ratio": 0.6571623359118858,
+          "limit": 0.3333333333333333,
+          "numerator": 912005795000,
+          "denominator": 1387793769000,
+          "evidenceIds": [
+            "mem-221",
+            "mem-222",
+            "mem-219"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.006683628025233203,
+          "limit": 0.05,
+          "numerator": 11861000000,
+          "denominator": 1774634967000,
+          "evidenceIds": [
+            "mem-224",
+            "mem-223"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Receivables, cash and securities / total assets: 65.72% is at or above the 33.33% limit"
+      ],
+      "purificationRate": 0.006683628025233203
+    }
+  ],
+  "purificationRate": 0.006683628025233203,
+  "narrative": {
+    "headline": "Dual Shariah verdict: AAOIFI compliant, MSCI non-compliant",
+    "explanation": "AAOIFI screening passes all ratios, deeming BUA Foods Shariah-compliant. MSCI flags the company non-compliant because receivables, cash and securities exceed 33.33% of total assets. If dividends are received, 0.67% must be purified.",
+    "key_points": [
+      {
+        "text": "Non-compliant revenue share is 0.00%, well under the 5.00% limit.",
+        "evidence": [
+          "mem-228"
+        ]
+      },
+      {
+        "text": "Interest-bearing debt at 2.86% passes the 30.00% cap.",
+        "evidence": [
+          "mem-220",
+          "mem-227"
+        ]
+      },
+      {
+        "text": "Non-compliant income is 0.67% of total revenue, passing the 5.00% limit.",
+        "evidence": [
+          "mem-224",
+          "mem-223"
+        ]
+      },
+      {
+        "text": "MSCI receivables, cash and securities ratio at 65.72% exceeds the 33.33% limit, causing non-compliance.",
+        "evidence": [
+          "mem-221",
+          "mem-222",
+          "mem-219"
+        ]
+      },
+      {
+        "text": "Purification rate is 0.67% if dividends are received.",
+        "evidence": [
+          "mem-224"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T17:59:11.191Z",
+  "finishedAt": "2026-10-23T18:04:45.091Z"
+}

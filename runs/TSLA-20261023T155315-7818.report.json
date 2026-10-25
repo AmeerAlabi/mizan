@@ -1,0 +1,209 @@
+{
+  "runId": "TSLA-20261023T155315-7818",
+  "ticker": "TSLA",
+  "company": "Tesla, Inc.",
+  "cik": "0001318605",
+  "industry": "3711 Motor Vehicles & Passenger Car Bodies",
+  "rounds": 3,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "NEEDS_REVIEW",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "MISSING",
+        "ratio": null,
+        "evidenceIds": [],
+        "missing": [
+          "nonCompliantRevenueShare"
+        ]
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.006146990335244853,
+          "limit": 0.3,
+          "numerator": 9080000000,
+          "denominator": 1477145644420.2,
+          "evidenceIds": [
+            "mem-147",
+            "mem-138"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.010302978624679672,
+          "limit": 0.3,
+          "numerator": 15219000000,
+          "denominator": 1477145644420.2,
+          "evidenceIds": [
+            "mem-143",
+            "mem-138"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.017716473156379513,
+          "limit": 0.05,
+          "numerator": 1680000000,
+          "denominator": 94827000000,
+          "evidenceIds": [
+            "mem-146",
+            "mem-145"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: missing nonCompliantRevenueShare"
+      ],
+      "purificationRate": 0.017716473156379513
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NEEDS_REVIEW",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "MISSING",
+        "ratio": null,
+        "evidenceIds": [],
+        "missing": [
+          "nonCompliantRevenueShare"
+        ]
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "PASS",
+          "ratio": 0.06113490075678005,
+          "limit": 0.3333333333333333,
+          "numerator": 9080000000,
+          "denominator": 148524000000,
+          "evidenceIds": [
+            "mem-147",
+            "mem-139"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.10246828795346206,
+          "limit": 0.3333333333333333,
+          "numerator": 15219000000,
+          "denominator": 148524000000,
+          "evidenceIds": [
+            "mem-143",
+            "mem-139"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.12998572621259863,
+          "limit": 0.3333333333333333,
+          "numerator": 19306000000,
+          "denominator": 148524000000,
+          "evidenceIds": [
+            "mem-143",
+            "mem-144",
+            "mem-139"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.017716473156379513,
+          "limit": 0.05,
+          "numerator": 1680000000,
+          "denominator": 94827000000,
+          "evidenceIds": [
+            "mem-146",
+            "mem-145"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: missing nonCompliantRevenueShare"
+      ],
+      "purificationRate": 0.017716473156379513
+    }
+  ],
+  "purificationRate": 0.017716473156379513,
+  "narrative": {
+    "headline": "Tesla, Inc.: AAOIFI: needs review, MSCI: needs review",
+    "explanation": "Revenue from non-compliant activities: missing nonCompliantRevenueShare. Purification rate: 1.77%. This is a screening result, not a fatwa.",
+    "key_points": [
+      {
+        "text": "Revenue from non-compliant activities: n/a (limit 5.00%) MISSING",
+        "evidence": []
+      },
+      {
+        "text": "Interest-bearing debt / market cap: 0.61% (limit 30.00%) PASS",
+        "evidence": [
+          "mem-147",
+          "mem-138"
+        ]
+      },
+      {
+        "text": "Interest-bearing cash and securities / market cap: 1.03% (limit 30.00%) PASS",
+        "evidence": [
+          "mem-143",
+          "mem-138"
+        ]
+      },
+      {
+        "text": "Non-compliant income / total revenue: 1.77% (limit 5.00%) PASS",
+        "evidence": [
+          "mem-146",
+          "mem-145"
+        ]
+      }
+    ]
+  },
+  "escalation": {
+    "question_for_scholar": "Please specify the exact amount and percentage of Tesla, Inc.'s total revenue that constitutes 'revenue from non-compliant activities' per AAOIFI Shariah Standard No. 21 and MSCI Islamic Index methodology, including the breakdown of income streams (e.g., interest/financing, haram-related products or services) used in the calculation, so the 5.00% limit can be properly assessed.",
+    "why": "The screening result is NEEDS_REVIEW because 'Revenue from non-compliant activities' is reported as n/a with no evidence for both methodologies, while a related metric 'Non-compliant income / total revenue' shows 1.77% and passes. This gap and potential discrepancy between the two metrics prevent a clean verdict. Resolving this question will either confirm that Tesla's non-compliant revenue is within the 5.00% threshold or identify the specific source requiring adjustment."
+  },
+  "unresolved": [
+    {
+      "metric": "nonCompliantRevenueShare",
+      "kind": "activity",
+      "problem": "Business activity has not been assessed",
+      "evidenceIds": []
+    }
+  ],
+  "startedAt": "2026-10-23T15:53:15.384Z",
+  "finishedAt": "2026-10-23T16:19:10.862Z"
+}

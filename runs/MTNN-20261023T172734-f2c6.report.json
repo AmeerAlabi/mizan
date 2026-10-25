@@ -1,0 +1,191 @@
+{
+  "runId": "MTNN-20261023T172734-f2c6",
+  "ticker": "MTNN",
+  "market": "NGX",
+  "currency": "NGN",
+  "company": "MTN Nigeria Communications Plc",
+  "cik": "NGX:MTNN",
+  "industry": "NGX · Telecommunications",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-217"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.16822592769282196,
+          "limit": 0.3,
+          "numerator": 2913898000000,
+          "denominator": 17321337084975,
+          "evidenceIds": [
+            "mem-208",
+            "mem-215"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.045883062958770836,
+          "limit": 0.3,
+          "numerator": 794756000000,
+          "denominator": 17321337084975,
+          "evidenceIds": [
+            "mem-209",
+            "mem-210",
+            "mem-215"
+          ],
+          "missing": []
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.009832485642299178,
+          "limit": 0.05,
+          "numerator": 51158000000,
+          "denominator": 5202957000000,
+          "evidenceIds": [
+            "mem-213",
+            "mem-212"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.009832485642299178
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-217"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "FAIL",
+          "ratio": 0.5392623173656872,
+          "limit": 0.3333333333333333,
+          "numerator": 2913898000000,
+          "denominator": 5403489000000,
+          "evidenceIds": [
+            "mem-208",
+            "mem-207"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.14708200571889754,
+          "limit": 0.3333333333333333,
+          "numerator": 794756000000,
+          "denominator": 5403489000000,
+          "evidenceIds": [
+            "mem-209",
+            "mem-210",
+            "mem-207"
+          ],
+          "missing": []
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.22055842067967568,
+          "limit": 0.3333333333333333,
+          "numerator": 1191785000000,
+          "denominator": 5403489000000,
+          "evidenceIds": [
+            "mem-209",
+            "mem-210",
+            "mem-211",
+            "mem-207"
+          ],
+          "missing": []
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.009832485642299178,
+          "limit": 0.05,
+          "numerator": 51158000000,
+          "denominator": 5202957000000,
+          "evidenceIds": [
+            "mem-213",
+            "mem-212"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Total debt / total assets: 53.93% is at or above the 33.33% limit"
+      ],
+      "purificationRate": 0.009832485642299178
+    }
+  ],
+  "purificationRate": 0.009832485642299178,
+  "narrative": {
+    "headline": "MTN Nigeria: AAOIFI compliant, MSCI non-compliant due to debt ratio",
+    "explanation": "MTN Nigeria passes AAOIFI Shariah screening with zero non-compliant revenue and acceptable financial ratios, but MSCI marks it non-compliant because total debt exceeds 33.33% of assets. The mixed result reflects differing standards: AAOIFI focuses on business activities while MSCI applies stricter asset-level debt limits. If dividends are received, 0.98% must be purified for Shariah compliance.",
+    "key_points": [
+      {
+        "text": "Non-compliant revenue share is 0.00%, well under the 5.00% limit.",
+        "evidence": [
+          "mem-217"
+        ]
+      },
+      {
+        "text": "Non-compliant income is 0.98% of total revenue, passing the 5.00% limit.",
+        "evidence": [
+          "mem-213",
+          "mem-212"
+        ]
+      },
+      {
+        "text": "MSCI total debt to assets ratio is 53.93%, exceeding the 33.33% limit.",
+        "evidence": [
+          "mem-208",
+          "mem-207"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T17:27:34.937Z",
+  "finishedAt": "2026-10-23T17:39:56.149Z"
+}

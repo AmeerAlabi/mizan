@@ -1,0 +1,194 @@
+{
+  "runId": "MAR-20261023T152415-34b8",
+  "ticker": "MAR",
+  "company": "MARRIOTT INTERNATIONAL INC /MD/",
+  "cik": "0001048286",
+  "industry": "7011 Hotels & Motels",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-136"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.16468597980768676,
+          "limit": 0.3,
+          "numerator": 16915000000,
+          "denominator": 102710625517.44,
+          "evidenceIds": [
+            "mem-135",
+            "mem-126"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.004498074056822423,
+          "limit": 0.3,
+          "numerator": 462000000,
+          "denominator": 102710625517.44,
+          "evidenceIds": [
+            "mem-132",
+            "mem-126"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.0016039104865195142,
+          "limit": 0.05,
+          "numerator": 42000000,
+          "denominator": 26186000000,
+          "evidenceIds": [
+            "mem-134",
+            "mem-133"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.0016039104865195142
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-136"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "FAIL",
+          "ratio": 0.6022787965105928,
+          "limit": 0.3333333333333333,
+          "numerator": 16915000000,
+          "denominator": 28085000000,
+          "evidenceIds": [
+            "mem-135",
+            "mem-127"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.016450062310842086,
+          "limit": 0.3333333333333333,
+          "numerator": 462000000,
+          "denominator": 28085000000,
+          "evidenceIds": [
+            "mem-132",
+            "mem-127"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.016450062310842086,
+          "limit": 0.3333333333333333,
+          "numerator": 462000000,
+          "denominator": 28085000000,
+          "evidenceIds": [
+            "mem-132",
+            "mem-127"
+          ],
+          "missing": [
+            "interestBearingSecurities",
+            "receivables"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.0016039104865195142,
+          "limit": 0.05,
+          "numerator": 42000000,
+          "denominator": 26186000000,
+          "evidenceIds": [
+            "mem-134",
+            "mem-133"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [
+        "Total debt / total assets: 60.23% is at or above the 33.33% limit"
+      ],
+      "purificationRate": 0.0016039104865195142
+    }
+  ],
+  "purificationRate": 0.0016039104865195142,
+  "narrative": {
+    "headline": "Conflicting verdicts: compliant vs non-compliant screens",
+    "explanation": "Marriott passes AAOIFI Shariah Standard 21 on revenue and capital-structure screens but fails MSCI Islamic Index due to a high debt-to-assets ratio. The small 0.16% non-compliant income triggers a purification rate if dividends are received. Mizan’s result is a screening, not a fatwa, so investors should consider both methodologies.",
+    "key_points": [
+      {
+        "text": "AAOIFI Shariah Standard 21 screen passes: non-compliant revenue 0.00%, debt-to-market-cap 16.47%, and interest-bearing cash 0.45% all within limits.",
+        "evidence": [
+          "mem-136",
+          "mem-135",
+          "mem-126"
+        ]
+      },
+      {
+        "text": "MSCI Islamic Index screen fails: total debt-to-assets ratio 60.23% exceeds the 33.33% limit.",
+        "evidence": [
+          "mem-135",
+          "mem-127"
+        ]
+      },
+      {
+        "text": "Non-compliant income is 0.16% of total revenue, defining a purification rate of 0.16% for dividends.",
+        "evidence": [
+          "mem-134",
+          "mem-133"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T15:24:15.329Z",
+  "finishedAt": "2026-10-23T15:31:08.872Z"
+}

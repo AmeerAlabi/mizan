@@ -1,0 +1,197 @@
+{
+  "runId": "TSLA-20261023T145439-20d5",
+  "ticker": "TSLA",
+  "company": "Tesla, Inc.",
+  "cik": "0001318605",
+  "industry": "3711 Motor Vehicles & Passenger Car Bodies",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-84"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.00613460374996717,
+          "limit": 0.3,
+          "numerator": 9061000000,
+          "denominator": 1477031014439.7659,
+          "evidenceIds": [
+            "mem-82",
+            "mem-74"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.010303778222133358,
+          "limit": 0.3,
+          "numerator": 15219000000,
+          "denominator": 1477031014439.7659,
+          "evidenceIds": [
+            "mem-78",
+            "mem-74"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.017716473156379513,
+          "limit": 0.05,
+          "numerator": 1680000000,
+          "denominator": 94827000000,
+          "evidenceIds": [
+            "mem-81",
+            "mem-80"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.017716473156379513
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-84"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "PASS",
+          "ratio": 0.06100697530365463,
+          "limit": 0.3333333333333333,
+          "numerator": 9061000000,
+          "denominator": 148524000000,
+          "evidenceIds": [
+            "mem-82",
+            "mem-75"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.10246828795346206,
+          "limit": 0.3333333333333333,
+          "numerator": 15219000000,
+          "denominator": 148524000000,
+          "evidenceIds": [
+            "mem-78",
+            "mem-75"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.12998572621259863,
+          "limit": 0.3333333333333333,
+          "numerator": 19306000000,
+          "denominator": 148524000000,
+          "evidenceIds": [
+            "mem-78",
+            "mem-79",
+            "mem-75"
+          ],
+          "missing": [
+            "interestBearingSecurities"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0.017716473156379513,
+          "limit": 0.05,
+          "numerator": 1680000000,
+          "denominator": 94827000000,
+          "evidenceIds": [
+            "mem-81",
+            "mem-80"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0.017716473156379513
+    }
+  ],
+  "purificationRate": 0.017716473156379513,
+  "narrative": {
+    "headline": "Tesla, Inc.: AAOIFI: compliant, MSCI: compliant",
+    "explanation": "Every business-activity and financial-ratio test passed. Purification rate: 1.77%. This is a screening result, not a fatwa.",
+    "key_points": [
+      {
+        "text": "Revenue from non-compliant activities: 0.00% (limit 5.00%) PASS",
+        "evidence": [
+          "mem-84"
+        ]
+      },
+      {
+        "text": "Interest-bearing debt / market cap: 0.61% (limit 30.00%) PASS",
+        "evidence": [
+          "mem-82",
+          "mem-74"
+        ]
+      },
+      {
+        "text": "Interest-bearing cash and securities / market cap: 1.03% (limit 30.00%) PASS",
+        "evidence": [
+          "mem-78",
+          "mem-74"
+        ]
+      },
+      {
+        "text": "Non-compliant income / total revenue: 1.77% (limit 5.00%) PASS",
+        "evidence": [
+          "mem-81",
+          "mem-80"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T14:54:39.979Z",
+  "finishedAt": "2026-10-23T15:02:50.893Z"
+}

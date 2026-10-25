@@ -1,0 +1,189 @@
+{
+  "runId": "AAPL-20261023T190427-3b0c",
+  "ticker": "AAPL",
+  "market": "US",
+  "currency": "USD",
+  "company": "Apple Inc.",
+  "cik": "0000320193",
+  "industry": "3571 Electronic Computers",
+  "rounds": 2,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-255"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "PASS",
+          "ratio": 0.016269115771739787,
+          "limit": 0.3,
+          "numerator": 82347000000,
+          "denominator": 5061553507600,
+          "evidenceIds": [
+            "mem-253",
+            "mem-244"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "PASS",
+          "ratio": 0.012328033262180661,
+          "limit": 0.3,
+          "numerator": 62399000000,
+          "denominator": 5061553507600,
+          "evidenceIds": [
+            "mem-249",
+            "mem-250",
+            "mem-244"
+          ],
+          "missing": []
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": 416161000000,
+          "evidenceIds": [
+            "mem-257",
+            "mem-252"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "PASS",
+        "ratio": 0,
+        "evidenceIds": [
+          "mem-255"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "PASS",
+          "ratio": 0.21485600079318282,
+          "limit": 0.3333333333333333,
+          "numerator": 82347000000,
+          "denominator": 383266000000,
+          "evidenceIds": [
+            "mem-253",
+            "mem-245"
+          ],
+          "missing": []
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "PASS",
+          "ratio": 0.16280859768411496,
+          "limit": 0.3333333333333333,
+          "numerator": 62399000000,
+          "denominator": 383266000000,
+          "evidenceIds": [
+            "mem-249",
+            "mem-250",
+            "mem-245"
+          ],
+          "missing": []
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "PASS",
+          "ratio": 0.2447308135863865,
+          "limit": 0.3333333333333333,
+          "numerator": 93797000000,
+          "denominator": 383266000000,
+          "evidenceIds": [
+            "mem-249",
+            "mem-250",
+            "mem-251",
+            "mem-245"
+          ],
+          "missing": []
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "PASS",
+          "ratio": 0,
+          "limit": 0.05,
+          "numerator": 0,
+          "denominator": 416161000000,
+          "evidenceIds": [
+            "mem-257",
+            "mem-252"
+          ],
+          "missing": []
+        }
+      ],
+      "reasons": [],
+      "purificationRate": 0
+    }
+  ],
+  "purificationRate": 0,
+  "narrative": {
+    "headline": "Apple passes AAOIFI & MSCI Shariah screens fully",
+    "explanation": "Apple receives a Shariah-compliant verdict under both AAOIFI Standard 21 and the MSCI Islamic Index. The primary reason is zero percent non-compliant revenue and strong financial ratios well within limits. The only noted uncertainty involves Apple's interest-based payment services, though reported interest income is immaterial. With a 0.00% purification rate, any dividends would be fully Shariah-clean.",
+    "key_points": [
+      {
+        "text": "AAOIFI Shariah Standard 21 and MSCI Islamic Index both grant Apple a compliant screening verdict.",
+        "evidence": [
+          "mem-255"
+        ]
+      },
+      {
+        "text": "Non-compliant revenue share is 0.00%, comfortably below the 5.00% threshold.",
+        "evidence": [
+          "mem-255"
+        ]
+      },
+      {
+        "text": "Financial ratios for debt, cash, and receivables all pass within AAOIFI and MSCI limits.",
+        "evidence": [
+          "mem-253",
+          "mem-249",
+          "mem-250"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T19:04:27.639Z",
+  "finishedAt": "2026-10-23T19:12:06.151Z"
+}

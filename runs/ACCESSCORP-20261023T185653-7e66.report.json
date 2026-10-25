@@ -1,0 +1,207 @@
+{
+  "runId": "ACCESSCORP-20261023T185653-7e66",
+  "ticker": "ACCESSCORP",
+  "market": "NGX",
+  "currency": "NGN",
+  "company": "Access Holdings Plc",
+  "cik": "NGX:ACCESSCORP",
+  "industry": "NGX · Banking and financial services",
+  "rounds": 1,
+  "results": [
+    {
+      "standardId": "aaoifi",
+      "standardName": "AAOIFI Shariah Standard No. 21",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-235"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Interest-bearing debt / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "interestBearingDebt",
+            "marketCap"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Interest-bearing cash and securities / market cap",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "marketCap"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.05,
+          "numerator": 2904220000000,
+          "denominator": null,
+          "evidenceIds": [
+            "mem-230"
+          ],
+          "missing": [
+            "totalRevenue"
+          ]
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Interest-bearing debt / market cap: missing interestBearingDebt, marketCap",
+        "Interest-bearing cash and securities / market cap: missing cash, interestBearingSecurities, marketCap",
+        "Non-compliant income / total revenue: missing totalRevenue"
+      ],
+      "purificationRate": null
+    },
+    {
+      "standardId": "msci",
+      "standardName": "MSCI Islamic Index methodology",
+      "verdict": "NON_COMPLIANT",
+      "business": {
+        "id": "business",
+        "label": "Revenue from non-compliant activities",
+        "limit": 0.05,
+        "numerator": null,
+        "denominator": null,
+        "status": "FAIL",
+        "ratio": 0.9,
+        "evidenceIds": [
+          "mem-235"
+        ],
+        "missing": []
+      },
+      "ratios": [
+        {
+          "id": "debt",
+          "label": "Total debt / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "interestBearingDebt",
+            "totalAssets"
+          ]
+        },
+        {
+          "id": "cash",
+          "label": "Cash and interest-bearing securities / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "totalAssets"
+          ]
+        },
+        {
+          "id": "receivables",
+          "label": "Receivables, cash and securities / total assets",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.3333333333333333,
+          "numerator": null,
+          "denominator": null,
+          "evidenceIds": [],
+          "missing": [
+            "cash",
+            "interestBearingSecurities",
+            "receivables",
+            "totalAssets"
+          ]
+        },
+        {
+          "id": "income",
+          "label": "Non-compliant income / total revenue",
+          "status": "MISSING",
+          "ratio": null,
+          "limit": 0.05,
+          "numerator": 2904220000000,
+          "denominator": null,
+          "evidenceIds": [
+            "mem-230"
+          ],
+          "missing": [
+            "totalRevenue"
+          ]
+        }
+      ],
+      "reasons": [
+        "Revenue from non-compliant activities: 90.00% is at or above the 5.00% limit",
+        "Total debt / total assets: missing interestBearingDebt, totalAssets",
+        "Cash and interest-bearing securities / total assets: missing cash, interestBearingSecurities, totalAssets",
+        "Receivables, cash and securities / total assets: missing cash, interestBearingSecurities, receivables, totalAssets",
+        "Non-compliant income / total revenue: missing totalRevenue"
+      ],
+      "purificationRate": null
+    }
+  ],
+  "purificationRate": null,
+  "narrative": {
+    "headline": "Access Holdings: Non-compliant due to core banking activities",
+    "explanation": "Access Holdings Plc is deemed non-compliant because nearly all its revenue (90.00%) stems from interest-based banking and consumer lending, far exceeding the 5.00% Shariah limit. The company's core segments are explicitly conventional banking, which is prohibited under Islamic finance. Key financial ratios are not provided, and the purification rate for any potential dividends is unspecified in the available evidence.",
+    "key_points": [
+      {
+        "text": "Non-compliant revenue share is 90.00%, far exceeding the 5.00% limit.",
+        "evidence": [
+          "mem-235"
+        ]
+      },
+      {
+        "text": "Core business segments include conventional banking and consumer lending, which are interest-based and non-compliant.",
+        "evidence": [
+          "mem-232",
+          "mem-233"
+        ]
+      },
+      {
+        "text": "Company sector flagged as conventional banking / interest-based lending on Nigerian Exchange.",
+        "evidence": [
+          "mem-229"
+        ]
+      },
+      {
+        "text": "Significant interest income reported (₦2.90T), contributing to non-compliant revenue.",
+        "evidence": [
+          "mem-230"
+        ]
+      }
+    ]
+  },
+  "escalation": null,
+  "unresolved": [],
+  "startedAt": "2026-10-23T18:56:53.250Z",
+  "finishedAt": "2026-10-23T19:02:03.600Z"
+}
